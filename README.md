@@ -7,8 +7,8 @@
   I use stuff, \
   Mostly macros.
   
-  [🌐 Linktree](https://linktr.ee/sneazy.ibo 'My Card') \
-  [📧 AniList](https://anilist.co/user/ibo/ 'My AL profile')
+  [リンクツリー](https://linktr.ee/sneazy.ibo 'Linktree') \
+  [アニリスト](https://anilist.co/user/ibo/ 'AniList')
 </details>
 
 <details>
