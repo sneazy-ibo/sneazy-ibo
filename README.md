@@ -23,6 +23,12 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (23:17, 18 May 2022)
+-   📺 Plans to watch [The Devil is a Part-Timer!](https://anilist.co/anime/15809) (23:17, 18 May 2022)
+-   📺 Watched episode 10 of [86 EIGHTY-SIX Season 2](https://anilist.co/anime/131586) (20:44, 17 May 2022)
+-   📺 Completed [86 EIGHTY-SIX](https://anilist.co/anime/116589) (20:43, 17 May 2022)
+-   📺 Plans to watch [Summer Time Rendering](https://anilist.co/anime/129201) (21:38, 06 May 2022)
+
 <!-- ANILIST_ACTIVITY:end -->
 </details>
 
