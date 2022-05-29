@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+
+### 🌸 My recent AniList activity
+
+<!-- ANILIST_ACTIVITY:start -->
+
+<!-- ANILIST_ACTIVITY:end -->
 
 <!--
 **sneazy-ibo/sneazy-ibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
