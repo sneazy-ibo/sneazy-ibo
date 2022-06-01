@@ -4,8 +4,8 @@
 <details>
   <summary><b>📋 About</b></summary>
 
-  I use stuff, \
-  Mostly macros.
+  17yo german boy \
+  testing macros.
   
   [リンクツリー](https://linktr.ee/sneazy.ibo 'Linktree') \
   [アニリスト](https://anilist.co/user/ibo/ 'AniList')
