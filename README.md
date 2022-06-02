@@ -23,11 +23,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (23:17, 18 May 2022)
--   📺 Plans to watch [The Devil is a Part-Timer!](https://anilist.co/anime/15809) (23:17, 18 May 2022)
--   📺 Watched episode 10 of [86 EIGHTY-SIX Season 2](https://anilist.co/anime/131586) (20:44, 17 May 2022)
--   📺 Completed [86 EIGHTY-SIX](https://anilist.co/anime/116589) (20:43, 17 May 2022)
--   📺 Plans to watch [Summer Time Rendering](https://anilist.co/anime/129201) (21:38, 06 May 2022)
+-   📖 Paused reading [What Do You Take Me For?](https://anilist.co/manga/120166) (15:54, 02 June 2022)
+-   📖 Paused reading [Lucky Guy](https://anilist.co/manga/121476) (15:54, 02 June 2022)
+-   📖 Paused reading [My Stepmother's Friends](https://anilist.co/manga/119648) (15:54, 02 June 2022)
+-   📺 Watched episode 7 of [The Case Study of Vanitas Part 2](https://anilist.co/anime/135136) (15:52, 02 June 2022)
+-   📺 Completed [The Case Study of Vanitas](https://anilist.co/anime/131646) (15:51, 02 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
