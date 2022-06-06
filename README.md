@@ -23,11 +23,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Paused reading [What Do You Take Me For?](https://anilist.co/manga/120166) (15:54, 02 June 2022)
--   📖 Paused reading [Lucky Guy](https://anilist.co/manga/121476) (15:54, 02 June 2022)
--   📖 Paused reading [My Stepmother's Friends](https://anilist.co/manga/119648) (15:54, 02 June 2022)
--   📺 Watched episode 7 of [The Case Study of Vanitas Part 2](https://anilist.co/anime/135136) (15:52, 02 June 2022)
--   📺 Completed [The Case Study of Vanitas](https://anilist.co/anime/131646) (15:51, 02 June 2022)
+-   📖 Read chapter 32 of [Viral Hit](https://anilist.co/manga/121991) (17:33, 06 June 2022)
+-   📺 Paused watching [Date A Live IV](https://anilist.co/anime/116605) (17:33, 06 June 2022)
+-   📺 Paused watching [How a Realist Hero Rebuilt the Kingdom](https://anilist.co/anime/117612) (17:33, 06 June 2022)
+-   📺 Paused watching [The Greatest Demon Lord Is Reborn as a Typical Nobody](https://anilist.co/anime/130586) (17:32, 06 June 2022)
+-   📺 Paused watching [Akashic Records of Bastard Magic Instructor](https://anilist.co/anime/21700) (17:32, 06 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
