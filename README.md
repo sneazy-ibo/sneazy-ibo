@@ -23,11 +23,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 63 - 82 of [Viral Hit](https://anilist.co/manga/121991) (00:00, 13 June 2022)
 -   📖 Read chapter 38 - 62 of [Viral Hit](https://anilist.co/manga/121991) (22:25, 11 June 2022)
 -   📖 Read chapter 33 - 37 of [Viral Hit](https://anilist.co/manga/121991) (04:45, 09 June 2022)
 -   📖 Read chapter 32 of [Viral Hit](https://anilist.co/manga/121991) (17:33, 06 June 2022)
 -   📺 Paused watching [Date A Live IV](https://anilist.co/anime/116605) (17:33, 06 June 2022)
--   📺 Paused watching [How a Realist Hero Rebuilt the Kingdom](https://anilist.co/anime/117612) (17:33, 06 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
