@@ -23,11 +23,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 160 of [Solo Leveling](https://anilist.co/manga/105398) (23:40, 18 June 2022)
 -   📖 Read chapter 88 of [Solo Leveling](https://anilist.co/manga/105398) (14:40, 17 June 2022)
 -   📖 Read chapter 134 of [Viral Hit](https://anilist.co/manga/121991) (16:58, 15 June 2022)
 -   📖 Read chapter 63 - 82 of [Viral Hit](https://anilist.co/manga/121991) (00:00, 13 June 2022)
 -   📖 Read chapter 38 - 62 of [Viral Hit](https://anilist.co/manga/121991) (22:25, 11 June 2022)
--   📖 Read chapter 33 - 37 of [Viral Hit](https://anilist.co/manga/121991) (04:45, 09 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
