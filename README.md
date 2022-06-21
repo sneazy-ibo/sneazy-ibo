@@ -23,11 +23,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 of [Doom Breaker](https://anilist.co/manga/136220) (23:57, 21 June 2022)
+-   📖 Completed [Viral Hit](https://anilist.co/manga/121991) (23:57, 21 June 2022)
+-   📖 Completed [Solo Leveling](https://anilist.co/manga/105398) (23:57, 21 June 2022)
 -   📖 Read chapter 2 of [Doom Breaker](https://anilist.co/manga/136220) (10:22, 21 June 2022)
 -   📖 Read chapter 180 of [Solo Leveling](https://anilist.co/manga/105398) (17:13, 19 June 2022)
--   📖 Read chapter 160 of [Solo Leveling](https://anilist.co/manga/105398) (23:40, 18 June 2022)
--   📖 Read chapter 88 of [Solo Leveling](https://anilist.co/manga/105398) (14:40, 17 June 2022)
--   📖 Read chapter 134 of [Viral Hit](https://anilist.co/manga/121991) (16:58, 15 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
