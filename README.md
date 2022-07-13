@@ -23,11 +23,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Juujika no Rokunin](https://anilist.co/manga/116671) (12:08, 13 July 2022)
+-   📖 Plans to read [Juujika no Rokunin](https://anilist.co/manga/116671) (12:08, 13 July 2022)
 -   📖 Read chapter 39 of [Hyeonsil Quest](https://anilist.co/manga/141705) (09:19, 13 July 2022)
 -   📖 Plans to read [Hyeonsil Quest](https://anilist.co/manga/141705) (09:19, 13 July 2022)
 -   📖 Read chapter 15 of [Doom Breaker](https://anilist.co/manga/136220) (05:43, 27 June 2022)
--   📺 Plans to watch [D-Frag!](https://anilist.co/anime/20031) (15:33, 22 June 2022)
--   📖 Read chapter 8 of [Doom Breaker](https://anilist.co/manga/136220) (23:57, 21 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
