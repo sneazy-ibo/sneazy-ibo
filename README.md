@@ -23,7 +23,7 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 15 of [QUESTISM](https://anilist.co/manga/140837) (16:11, 14 July 2022)
+-   📖 Read chapter 2 - 16 of [QUESTISM](https://anilist.co/manga/140837) (16:31, 14 July 2022)
 -   📖 Plans to read [QUESTISM](https://anilist.co/manga/140837) (23:32, 13 July 2022)
 -   📖 Read chapter 1 of [Juujika no Rokunin](https://anilist.co/manga/116671) (12:08, 13 July 2022)
 -   📖 Plans to read [Juujika no Rokunin](https://anilist.co/manga/116671) (12:08, 13 July 2022)
