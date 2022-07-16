@@ -23,11 +23,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 29 of [QUESTISM](https://anilist.co/manga/140837) (13:34, 16 July 2022)
 -   📖 Read chapter 2 - 27 of [QUESTISM](https://anilist.co/manga/140837) (08:19, 15 July 2022)
 -   📖 Plans to read [QUESTISM](https://anilist.co/manga/140837) (23:32, 13 July 2022)
 -   📖 Read chapter 1 of [Juujika no Rokunin](https://anilist.co/manga/116671) (12:08, 13 July 2022)
 -   📖 Plans to read [Juujika no Rokunin](https://anilist.co/manga/116671) (12:08, 13 July 2022)
--   📖 Read chapter 39 of [Hyeonsil Quest](https://anilist.co/manga/141705) (09:19, 13 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
