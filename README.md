@@ -23,11 +23,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Lucky Guy](https://anilist.co/manga/121476) (15:47, 18 July 2022)
 -   📖 Read chapter 42 of [QUESTISM](https://anilist.co/manga/140837) (08:23, 18 July 2022)
 -   📖 Read chapter 29 - 40 of [QUESTISM](https://anilist.co/manga/140837) (22:16, 16 July 2022)
 -   📖 Read chapter 2 - 27 of [QUESTISM](https://anilist.co/manga/140837) (08:19, 15 July 2022)
 -   📖 Plans to read [QUESTISM](https://anilist.co/manga/140837) (23:32, 13 July 2022)
--   📖 Read chapter 1 of [Juujika no Rokunin](https://anilist.co/manga/116671) (12:08, 13 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
