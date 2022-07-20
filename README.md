@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/951737931159187457"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/951737931159187457?theme=light&bg=ffdbe3&animated=false&hideDiscrim=true&borderRadius=20px" /></a>
+<a href="https://discord.com/users/973737425522278420"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/973737425522278420?theme=light&bg=ffdbe3&animated=false&hideDiscrim=true&borderRadius=20px" /></a>
 
 <a href="https://pxseu.com/"><img src="./assets/ibo-sakura.gif" height="150" /></a>
 <details>
