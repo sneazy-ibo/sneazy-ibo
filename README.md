@@ -23,11 +23,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Completed [Lucky Guy](https://anilist.co/manga/121476) (15:47, 18 July 2022)
--   📖 Read chapter 42 of [QUESTISM](https://anilist.co/manga/140837) (08:23, 18 July 2022)
--   📖 Read chapter 29 - 40 of [QUESTISM](https://anilist.co/manga/140837) (22:16, 16 July 2022)
--   📖 Read chapter 2 - 27 of [QUESTISM](https://anilist.co/manga/140837) (08:19, 15 July 2022)
--   📖 Plans to read [QUESTISM](https://anilist.co/manga/140837) (23:32, 13 July 2022)
+-   📺 Watched episode 3 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (23:15, 24 July 2022)
+-   📺 Completed [Classroom of the Elite](https://anilist.co/anime/98659) (23:15, 24 July 2022)
+-   📺 Watched episode 2 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (23:14, 24 July 2022)
+-   📺 Watched episode 3 of [Harem in the Labyrinth of Another World](https://anilist.co/anime/127090) (23:14, 24 July 2022)
+-   📺 Watched episode 3 of [Lycoris Recoil](https://anilist.co/anime/143270) (23:13, 24 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
