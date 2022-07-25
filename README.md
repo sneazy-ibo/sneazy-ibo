@@ -23,11 +23,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Lycoris Recoil](https://anilist.co/anime/143270) (12:43, 25 July 2022)
+-   📺 Watched episode 3 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (12:19, 25 July 2022)
 -   📺 Watched episode 3 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (23:15, 24 July 2022)
 -   📺 Completed [Classroom of the Elite](https://anilist.co/anime/98659) (23:15, 24 July 2022)
 -   📺 Watched episode 2 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (23:14, 24 July 2022)
--   📺 Watched episode 3 of [Harem in the Labyrinth of Another World](https://anilist.co/anime/127090) (23:14, 24 July 2022)
--   📺 Watched episode 3 of [Lycoris Recoil](https://anilist.co/anime/143270) (23:13, 24 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
