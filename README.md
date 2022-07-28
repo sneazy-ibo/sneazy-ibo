@@ -23,7 +23,7 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 - 6 of [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920) (20:36, 28 July 2022)
+-   📺 Watched episode 3 - 7 of [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920) (21:01, 28 July 2022)
 -   📺 Plans to watch [SUMMER: Inaka No Seikatsu](https://anilist.co/anime/148148) (17:58, 28 July 2022)
 -   📺 Watched episode 4 of [Harem in the Labyrinth of Another World](https://anilist.co/anime/127090) (19:05, 27 July 2022)
 -   📺 Watched episode 4 of [Vermeil in Gold](https://anilist.co/anime/146210) (19:32, 26 July 2022)
