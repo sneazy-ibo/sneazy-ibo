@@ -23,11 +23,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920) (18:08, 28 July 2022)
+-   📺 Plans to watch [SUMMER: Inaka No Seikatsu](https://anilist.co/anime/148148) (17:58, 28 July 2022)
 -   📺 Watched episode 4 of [Harem in the Labyrinth of Another World](https://anilist.co/anime/127090) (19:05, 27 July 2022)
 -   📺 Watched episode 4 of [Vermeil in Gold](https://anilist.co/anime/146210) (19:32, 26 July 2022)
 -   📺 Watched episode 4 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (18:39, 25 July 2022)
--   📺 Watched episode 4 of [Lycoris Recoil](https://anilist.co/anime/143270) (12:43, 25 July 2022)
--   📺 Watched episode 3 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (12:19, 25 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
