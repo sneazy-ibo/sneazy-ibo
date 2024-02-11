@@ -23,17 +23,24 @@
 takarealist
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=216np2gahwfhcjozqmzomew7i&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=216np2gahwfhcjozqmzomew7i&redirect=true)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/951737931159187457?theme=dark&bg=Oe1116&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=216np2gahwfhcjozqmzomew7i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=216np2gahwfhcjozqmzomew7i&redirect=true)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/951737931159187457?theme=dark&bg=Oe1116&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=currently%20offline...)](https://discord.com/users/94490510688792576)
 
 
 # AniList Activity
+
 <!-- ANILIST_ACTIVITY:start -->
+
 <!-- ANILIST_ACTIVITY:end -->
+
 # GitHub Activity
+
 <!--START_SECTION:activity-->
+
 # WakaTime Activity
+
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=sneazy-ibo&color=ff6e00&label=Counter&abbreviated=true)
