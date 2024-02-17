@@ -1,8 +1,8 @@
 name: AniList readme workflow
 on:
     schedule:
-        # Runs every hour
-        - cron: "*/20 13-3 * * *"
+        # Every 30 minutes, between 01:00 PM and 03:59 AM
+        - cron: "*/30 13-3 * * *"
     workflow_dispatch:
 
 jobs:
