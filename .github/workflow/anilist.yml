@@ -2,7 +2,7 @@ name: AniList readme workflow
 on:
     schedule:
         # Runs every hour
-        - cron: "0 * * * *"
+        - cron: "*/20 13-3 * * *"
     workflow_dispatch:
 
 jobs:
@@ -13,5 +13,10 @@ jobs:
             - uses: actions/checkout@v2
             - name: AniList readme workflow
               uses: pxseu/anilist-readme@v1.4.2
+
               with:
                   user_id: 5790266
+                  max_post_count: 10
+                  commit_message: "تحديث • Anilist Activity"
+                  timezone: "Europe/Berlin"
+                  date_format: "{h}:{m} // {D} {MW}, {Y}"
