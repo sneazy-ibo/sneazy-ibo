@@ -63,6 +63,14 @@ takarealist
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 06 February 2024 - To: 16 February 2024
+
+Total Time: 10 hrs 54 mins
+
+Other            19 hrs 32 mins  >>>>>>>>>>>>>>>>---------   64.18 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=sneazy-ibo&color=ff6e00&label=Counter&abbreviated=true)
