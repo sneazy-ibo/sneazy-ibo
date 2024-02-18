@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 23 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (20:32 18 February 2024)
 -   📖 Read chapter 8 - 22 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (10:36 18 February 2024)
 -   📺 Watched episode 7 of [Solo Leveling](https://anilist.co/anime/151807) (06:47 18 February 2024)
 -   📖 Plans to read [The Perfect Hybrid](https://anilist.co/manga/153869) (19:15 17 February 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Read chapter 1 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (23:17 14 February 2024)
 -   📺 Watched episode 7 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (21:05 14 February 2024)
 -   📖 Read chapter 139 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (16:05 13 February 2024)
--   📺 Completed [A Silent Voice](https://anilist.co/anime/20954) (14:57 13 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
