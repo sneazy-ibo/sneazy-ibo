@@ -27,7 +27,7 @@ jobs:
           SHOW_MASKED_TIME: true
           STOP_AT_OTHER: false
           ### commit
-          COMMIT_MESSAGE: تحديث • Waka Activity
+          COMMIT_MESSAGE: تحديث • WakaTime Activity
           TARGET_BRANCH: main
           TARGET_PATH: README.md
           COMMITTER_NAME: オタt
