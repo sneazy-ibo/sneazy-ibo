@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [Solo Leveling](https://anilist.co/anime/151807) (06:47 18 February 2024)
 -   📖 Plans to read [The Perfect Hybrid](https://anilist.co/manga/153869) (19:15 17 February 2024)
 -   📖 Read chapter 7 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (15:38 16 February 2024)
 -   📺 Plans to watch [ZOMBIE LAND SAGA REVENGE](https://anilist.co/anime/110733) (14:46 16 February 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Read chapter 139 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (16:05 13 February 2024)
 -   📺 Completed [A Silent Voice](https://anilist.co/anime/20954) (14:57 13 February 2024)
 -   📺 Completed [Assassination Classroom](https://anilist.co/anime/20755) (14:57 13 February 2024)
--   📖 Read chapter 69 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (06:32 13 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
