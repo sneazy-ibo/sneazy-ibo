@@ -31,7 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 8 - 20 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (10:06 18 February 2024)
+-   📖 Read chapter 8 - 21 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (10:27 18 February 2024)
 -   📺 Watched episode 7 of [Solo Leveling](https://anilist.co/anime/151807) (06:47 18 February 2024)
 -   📖 Plans to read [The Perfect Hybrid](https://anilist.co/manga/153869) (19:15 17 February 2024)
 -   📖 Read chapter 7 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (15:38 16 February 2024)
