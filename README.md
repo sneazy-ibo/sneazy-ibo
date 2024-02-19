@@ -47,16 +47,16 @@ takarealist
 # GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/sneazy-ibo/sneazy-ibo/pull/7) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
-2. 💪 Opened PR [#7](https://github.com/sneazy-ibo/sneazy-ibo/pull/7) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
-3. 🎉 Merged PR [#6](https://github.com/sneazy-ibo/sneazy-ibo/pull/6) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
-4. 💪 Opened PR [#6](https://github.com/sneazy-ibo/sneazy-ibo/pull/6) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
-5. 🎉 Merged PR [#5](https://github.com/sneazy-ibo/sneazy-ibo/pull/5) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
-6. 💪 Opened PR [#5](https://github.com/sneazy-ibo/sneazy-ibo/pull/5) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
-7. 🎉 Merged PR [#4](https://github.com/sneazy-ibo/sneazy-ibo/pull/4) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
-8. 💪 Opened PR [#4](https://github.com/sneazy-ibo/sneazy-ibo/pull/4) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
-9. 🗣 Commented on [#3](https://github.com/sneazy-ibo/sneazy-ibo/pull/3#issuecomment-1950283206) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
-10. ❌ Closed PR [#3](https://github.com/sneazy-ibo/sneazy-ibo/pull/3) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
+1. 💪 Opened PR [#200](https://github.com/rebelonion/Dantotsu/pull/200) in [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu)
+2. 🎉 Merged PR [#7](https://github.com/sneazy-ibo/sneazy-ibo/pull/7) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
+3. 💪 Opened PR [#7](https://github.com/sneazy-ibo/sneazy-ibo/pull/7) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
+4. 🎉 Merged PR [#6](https://github.com/sneazy-ibo/sneazy-ibo/pull/6) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
+5. 💪 Opened PR [#6](https://github.com/sneazy-ibo/sneazy-ibo/pull/6) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
+6. 🎉 Merged PR [#5](https://github.com/sneazy-ibo/sneazy-ibo/pull/5) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
+7. 💪 Opened PR [#5](https://github.com/sneazy-ibo/sneazy-ibo/pull/5) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
+8. 🎉 Merged PR [#4](https://github.com/sneazy-ibo/sneazy-ibo/pull/4) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
+9. 💪 Opened PR [#4](https://github.com/sneazy-ibo/sneazy-ibo/pull/4) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
+10. 🗣 Commented on [#3](https://github.com/sneazy-ibo/sneazy-ibo/pull/3#issuecomment-1950283206) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
 <!--END_SECTION:activity-->
 
 # WakaTime Activity
