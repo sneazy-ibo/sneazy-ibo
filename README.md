@@ -31,16 +31,16 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [Date A Live IV](https://anilist.co/anime/116605) (04:19 19 February 2024)
+-   📺 Dropped [Boruto: Naruto Next Generations](https://anilist.co/anime/97938) (04:19 19 February 2024)
+-   📺 Dropped [Arifureta: From Commonplace to World's Strongest Season 2](https://anilist.co/anime/112323) (04:19 19 February 2024)
+-   📺 Dropped [Akashic Records of Bastard Magic Instructor](https://anilist.co/anime/21700) (04:18 19 February 2024)
 -   📖 Read chapter 140 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (03:15 19 February 2024)
 -   📖 Read chapter 70 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (03:05 19 February 2024)
 -   📖 Read chapter 126 of [QUESTISM](https://anilist.co/manga/140837) (02:57 19 February 2024)
 -   📖 Read chapter 39 - 40 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (02:48 19 February 2024)
 -   📖 Read chapter 34 - 38 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (01:59 19 February 2024)
 -   📖 Read chapter 33 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (00:26 19 February 2024)
--   📖 Read chapter 23 - 32 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (22:30 18 February 2024)
--   📖 Read chapter 8 - 22 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (10:36 18 February 2024)
--   📺 Watched episode 7 of [Solo Leveling](https://anilist.co/anime/151807) (06:47 18 February 2024)
--   📖 Plans to read [The Perfect Hybrid](https://anilist.co/manga/153869) (19:15 17 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
