@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (14:24 19 February 2024)
 -   📺 Dropped [Date A Live IV](https://anilist.co/anime/116605) (04:19 19 February 2024)
 -   📺 Dropped [Boruto: Naruto Next Generations](https://anilist.co/anime/97938) (04:19 19 February 2024)
 -   📺 Dropped [Arifureta: From Commonplace to World's Strongest Season 2](https://anilist.co/anime/112323) (04:19 19 February 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Read chapter 126 of [QUESTISM](https://anilist.co/manga/140837) (02:57 19 February 2024)
 -   📖 Read chapter 39 - 40 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (02:48 19 February 2024)
 -   📖 Read chapter 34 - 38 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (01:59 19 February 2024)
--   📖 Read chapter 33 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (00:26 19 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
