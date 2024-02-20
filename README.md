@@ -24,7 +24,7 @@ takarealist
 </p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=216np2gahwfhcjozqmzomew7i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=216np2gahwfhcjozqmzomew7i&redirect=true)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/951737931159187457?theme=dark&bg=Oe1116&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=currently%20offline...)](https://discord.com/users/951737931159187457)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/951737931159187457?theme=dark&bg=Oe1116&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=not%20doing%20anything%20rn)](https://discord.com/users/951737931159187457)
 
 
 # AniList Activity
