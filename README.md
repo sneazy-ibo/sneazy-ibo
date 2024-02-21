@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:32 21 February 2024)
 -   📖 Paused reading [Second Life Ranker](https://anilist.co/manga/109957) (02:52 21 February 2024)
 -   📖 Dropped [Doom Breaker](https://anilist.co/manga/136220) (02:50 21 February 2024)
 -   📖 Paused reading [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (02:49 21 February 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📺 Dropped [Date A Live IV](https://anilist.co/anime/116605) (04:19 19 February 2024)
 -   📺 Dropped [Boruto: Naruto Next Generations](https://anilist.co/anime/97938) (04:19 19 February 2024)
 -   📺 Dropped [Arifureta: From Commonplace to World's Strongest Season 2](https://anilist.co/anime/112323) (04:19 19 February 2024)
--   📺 Dropped [Akashic Records of Bastard Magic Instructor](https://anilist.co/anime/21700) (04:18 19 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
