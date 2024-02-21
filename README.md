@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (05:04 21 February 2024)
 -   📖 Read chapter 2 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:32 21 February 2024)
 -   📖 Paused reading [Second Life Ranker](https://anilist.co/manga/109957) (02:52 21 February 2024)
 -   📖 Dropped [Doom Breaker](https://anilist.co/manga/136220) (02:50 21 February 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Read chapter 1 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (14:24 19 February 2024)
 -   📺 Dropped [Date A Live IV](https://anilist.co/anime/116605) (04:19 19 February 2024)
 -   📺 Dropped [Boruto: Naruto Next Generations](https://anilist.co/anime/97938) (04:19 19 February 2024)
--   📺 Dropped [Arifureta: From Commonplace to World's Strongest Season 2](https://anilist.co/anime/112323) (04:19 19 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
