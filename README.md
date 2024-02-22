@@ -31,7 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 9 - 13 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (10:45 22 February 2024)
+-   📖 Read chapter 9 - 14 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (10:52 22 February 2024)
 -   📖 Read chapter 4 - 8 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (09:43 22 February 2024)
 -   📺 Watched episode 8 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (07:04 22 February 2024)
 -   📖 Read chapter 3 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (05:04 21 February 2024)
