@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 26 - 28 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (10:14 25 February 2024)
 -   📖 Read chapter 15 - 25 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:45 25 February 2024)
 -   📖 Read chapter 93 of [Mythic Item Obtained](https://anilist.co/manga/151025) (07:22 25 February 2024)
 -   📺 Watched episode 7 of [Solo Leveling](https://anilist.co/anime/151807) (07:15 25 February 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Read chapter 3 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (05:04 21 February 2024)
 -   📖 Read chapter 2 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:32 21 February 2024)
 -   📖 Paused reading [Second Life Ranker](https://anilist.co/manga/109957) (02:52 21 February 2024)
--   📖 Dropped [Doom Breaker](https://anilist.co/manga/136220) (02:50 21 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
