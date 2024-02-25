@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [Solo Leveling](https://anilist.co/anime/151807) (07:15 25 February 2024)
 -   📖 Read chapter 9 - 14 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (10:52 22 February 2024)
 -   📖 Read chapter 4 - 8 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (09:43 22 February 2024)
 -   📺 Watched episode 8 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (07:04 22 February 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Dropped [Doom Breaker](https://anilist.co/manga/136220) (02:50 21 February 2024)
 -   📖 Paused reading [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (02:49 21 February 2024)
 -   📖 Read chapter 41 of [Mallep Player-ui 100-beonjjae Hoegwi](https://anilist.co/manga/170894) (01:49 21 February 2024)
--   📺 Plans to watch [Ninja Kamui](https://anilist.co/anime/151639) (01:02 20 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
