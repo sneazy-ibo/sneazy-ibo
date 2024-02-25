@@ -31,7 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 15 - 21 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:15 25 February 2024)
+-   📖 Read chapter 15 - 23 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:30 25 February 2024)
 -   📖 Read chapter 93 of [Mythic Item Obtained](https://anilist.co/manga/151025) (07:22 25 February 2024)
 -   📺 Watched episode 7 of [Solo Leveling](https://anilist.co/anime/151807) (07:15 25 February 2024)
 -   📖 Read chapter 9 - 14 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (10:52 22 February 2024)
