@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 32 - 35 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (01:09 26 February 2024)
 -   📖 Read chapter 26 - 30 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (10:26 25 February 2024)
 -   📖 Read chapter 15 - 25 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:45 25 February 2024)
 -   📖 Read chapter 93 of [Mythic Item Obtained](https://anilist.co/manga/151025) (07:22 25 February 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📺 Watched episode 8 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (07:04 22 February 2024)
 -   📖 Read chapter 3 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (05:04 21 February 2024)
 -   📖 Read chapter 2 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:32 21 February 2024)
--   📖 Paused reading [Second Life Ranker](https://anilist.co/manga/109957) (02:52 21 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
