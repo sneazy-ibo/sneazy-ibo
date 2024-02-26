@@ -31,6 +31,8 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 97 of [The Novel's Extra](https://anilist.co/manga/152128) (06:00 26 February 2024)
+-   📖 Read chapter 127 of [QUESTISM](https://anilist.co/manga/140837) (05:55 26 February 2024)
 -   📖 Read chapter 32 - 46 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (02:50 26 February 2024)
 -   📖 Read chapter 26 - 30 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (10:26 25 February 2024)
 -   📖 Read chapter 15 - 25 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:45 25 February 2024)
@@ -39,8 +41,6 @@ takarealist
 -   📖 Read chapter 9 - 14 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (10:52 22 February 2024)
 -   📖 Read chapter 4 - 8 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (09:43 22 February 2024)
 -   📺 Watched episode 8 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (07:04 22 February 2024)
--   📖 Read chapter 3 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (05:04 21 February 2024)
--   📖 Read chapter 2 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:32 21 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
