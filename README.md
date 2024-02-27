@@ -47,16 +47,16 @@ takarealist
 # GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/justchokingaround/jerry/issues/5#issuecomment-1962271249) in [justchokingaround/jerry](https://github.com/justchokingaround/jerry)
-2. 🎉 Merged PR [#9](https://github.com/sneazy-ibo/sneazy-ibo/pull/9) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
-3. 💪 Opened PR [#9](https://github.com/sneazy-ibo/sneazy-ibo/pull/9) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
-4. 🎉 Merged PR [#8](https://github.com/sneazy-ibo/sneazy-ibo/pull/8) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
-5. 💪 Opened PR [#8](https://github.com/sneazy-ibo/sneazy-ibo/pull/8) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
-6. ❗ Opened issue [#720](https://github.com/ajeetdsouza/zoxide/issues/720) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-7. 🗣 Commented on [#202](https://github.com/rebelonion/Dantotsu/pull/202#issuecomment-1953089687) in [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu)
-8. 💪 Opened PR [#200](https://github.com/rebelonion/Dantotsu/pull/200) in [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu)
-9. 🎉 Merged PR [#7](https://github.com/sneazy-ibo/sneazy-ibo/pull/7) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
-10. 💪 Opened PR [#7](https://github.com/sneazy-ibo/sneazy-ibo/pull/7) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
+1. 🗣 Commented on [#26](https://github.com/warpdotdev/Warp/issues/26#issuecomment-1963689226) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+2. 🗣 Commented on [#26](https://github.com/warpdotdev/Warp/issues/26#issuecomment-1963638026) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+3. 🗣 Commented on [#5](https://github.com/justchokingaround/jerry/issues/5#issuecomment-1962271249) in [justchokingaround/jerry](https://github.com/justchokingaround/jerry)
+4. 🎉 Merged PR [#9](https://github.com/sneazy-ibo/sneazy-ibo/pull/9) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
+5. 💪 Opened PR [#9](https://github.com/sneazy-ibo/sneazy-ibo/pull/9) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
+6. 🎉 Merged PR [#8](https://github.com/sneazy-ibo/sneazy-ibo/pull/8) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
+7. 💪 Opened PR [#8](https://github.com/sneazy-ibo/sneazy-ibo/pull/8) in [sneazy-ibo/sneazy-ibo](https://github.com/sneazy-ibo/sneazy-ibo)
+8. ❗ Opened issue [#720](https://github.com/ajeetdsouza/zoxide/issues/720) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+9. 🗣 Commented on [#202](https://github.com/rebelonion/Dantotsu/pull/202#issuecomment-1953089687) in [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu)
+10. 💪 Opened PR [#200](https://github.com/rebelonion/Dantotsu/pull/200) in [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu)
 <!--END_SECTION:activity-->
 
 # WakaTime Activity
