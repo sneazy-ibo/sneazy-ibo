@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 27 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (13:54 28 February 2024)
 -   📖 Read chapter 24 - 26 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (07:07 28 February 2024)
 -   📖 Read chapter 23 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (17:59 27 February 2024)
 -   📖 Read chapter 22 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:30 27 February 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Read chapter 127 of [QUESTISM](https://anilist.co/manga/140837) (05:55 26 February 2024)
 -   📖 Read chapter 32 - 46 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (02:50 26 February 2024)
 -   📖 Read chapter 26 - 30 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (10:26 25 February 2024)
--   📖 Read chapter 15 - 25 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:45 25 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
