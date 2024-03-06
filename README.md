@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Into the Forest of Fireflies' Light](https://anilist.co/anime/10408) (22:00 06 March 2024)
 -   📺 Plans to watch [7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://anilist.co/anime/168374) (21:53 06 March 2024)
 -   📺 Watched episode 10 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (19:32 06 March 2024)
 -   📺 Watched episode 9 of [Solo Leveling](https://anilist.co/anime/151807) (06:05 03 March 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Read chapter 23 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (17:59 27 February 2024)
 -   📖 Read chapter 22 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:30 27 February 2024)
 -   📖 Read chapter 21 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (07:23 27 February 2024)
--   📖 Read chapter 141 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (04:18 27 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
