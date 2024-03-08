@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [The Summer Hikaru Died](https://anilist.co/manga/138603) (23:26 08 March 2024)
 -   📖 Plans to read [The Fable](https://anilist.co/manga/94490) (23:25 08 March 2024)
 -   📖 Read chapter 128 of [QUESTISM](https://anilist.co/manga/140837) (11:56 07 March 2024)
 -   📺 Plans to watch [Into the Forest of Fireflies' Light](https://anilist.co/anime/10408) (22:00 06 March 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📺 Watched episode 9 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (19:47 28 February 2024)
 -   📖 Read chapter 27 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (13:54 28 February 2024)
 -   📖 Read chapter 24 - 26 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (07:07 28 February 2024)
--   📖 Read chapter 23 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (17:59 27 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
