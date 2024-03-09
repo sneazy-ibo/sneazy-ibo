@@ -31,7 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 47 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:18 09 March 2024)
+-   📖 Read chapter 47 - 48 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:28 09 March 2024)
 -   📖 Read chapter 128 of [QUESTISM](https://anilist.co/manga/140837) (02:16 09 March 2024)
 -   📖 Plans to read [The Summer Hikaru Died](https://anilist.co/manga/138603) (23:26 08 March 2024)
 -   📖 Plans to read [The Fable](https://anilist.co/manga/94490) (23:25 08 March 2024)
