@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 47 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:18 09 March 2024)
 -   📖 Read chapter 128 of [QUESTISM](https://anilist.co/manga/140837) (02:16 09 March 2024)
 -   📖 Plans to read [The Summer Hikaru Died](https://anilist.co/manga/138603) (23:26 08 March 2024)
 -   📖 Plans to read [The Fable](https://anilist.co/manga/94490) (23:25 08 March 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📺 Watched episode 10 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (19:32 06 March 2024)
 -   📺 Watched episode 9 of [Solo Leveling](https://anilist.co/anime/151807) (06:05 03 March 2024)
 -   📺 Watched episode 9 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (19:47 28 February 2024)
--   📖 Read chapter 27 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (13:54 28 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
