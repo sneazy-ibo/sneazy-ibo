@@ -31,7 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 30 - 44 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:06 09 March 2024)
+-   📖 Read chapter 30 - 45 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:16 09 March 2024)
 -   📖 Read chapter 28 - 29 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (04:43 09 March 2024)
 -   📖 Read chapter 47 - 48 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:28 09 March 2024)
 -   📖 Read chapter 128 of [QUESTISM](https://anilist.co/manga/140837) (02:16 09 March 2024)
