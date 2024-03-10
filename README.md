@@ -31,7 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 65 - 68 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:42 10 March 2024)
+-   📖 Read chapter 65 - 69 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:51 10 March 2024)
 -   📖 Read chapter 52 - 64 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (13:38 10 March 2024)
 -   📖 Read chapter 47 - 51 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (02:46 10 March 2024)
 -   📖 Read chapter 30 - 46 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:26 09 March 2024)
