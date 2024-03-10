@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 47 - 48 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (02:19 10 March 2024)
 -   📖 Read chapter 30 - 46 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:26 09 March 2024)
 -   📖 Read chapter 28 - 29 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (04:43 09 March 2024)
 -   📖 Read chapter 47 - 48 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:28 09 March 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Read chapter 128 of [QUESTISM](https://anilist.co/manga/140837) (11:56 07 March 2024)
 -   📺 Plans to watch [Into the Forest of Fireflies' Light](https://anilist.co/anime/10408) (22:00 06 March 2024)
 -   📺 Plans to watch [7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://anilist.co/anime/168374) (21:53 06 March 2024)
--   📺 Watched episode 10 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (19:32 06 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
