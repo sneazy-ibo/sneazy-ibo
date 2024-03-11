@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Noblesse](https://anilist.co/manga/59983) (18:16 11 March 2024)
 -   📖 Plans to read [Byeonbangui Oenoja (2023)](https://anilist.co/manga/171335) (22:04 10 March 2024)
 -   📖 Read chapter 65 - 69 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:51 10 March 2024)
 -   📖 Read chapter 52 - 64 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (13:38 10 March 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Read chapter 47 - 48 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:28 09 March 2024)
 -   📖 Read chapter 128 of [QUESTISM](https://anilist.co/manga/140837) (02:16 09 March 2024)
 -   📖 Plans to read [The Summer Hikaru Died](https://anilist.co/manga/138603) (23:26 08 March 2024)
--   📖 Plans to read [The Fable](https://anilist.co/manga/94490) (23:25 08 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
