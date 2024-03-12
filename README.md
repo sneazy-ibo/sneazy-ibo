@@ -31,7 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 71 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (11:47 12 March 2024)
+-   📖 Read chapter 71 - 73 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (12:11 12 March 2024)
 -   📖 Read chapter 70 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (11:04 12 March 2024)
 -   📖 Plans to read [Noblesse](https://anilist.co/manga/59983) (18:16 11 March 2024)
 -   📖 Plans to read [Byeonbangui Oenoja (2023)](https://anilist.co/manga/171335) (22:04 10 March 2024)
