@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 74 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (14:42 12 March 2024)
 -   📖 Read chapter 71 - 73 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (12:11 12 March 2024)
 -   📖 Read chapter 70 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (11:04 12 March 2024)
 -   📖 Plans to read [Noblesse](https://anilist.co/manga/59983) (18:16 11 March 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Read chapter 47 - 51 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (02:46 10 March 2024)
 -   📖 Read chapter 30 - 46 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:26 09 March 2024)
 -   📖 Read chapter 28 - 29 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (04:43 09 March 2024)
--   📖 Read chapter 47 - 48 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:28 09 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
