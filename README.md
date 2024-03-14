@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 98 - 99 of [The Novel's Extra](https://anilist.co/manga/152128) (17:02 14 March 2024)
 -   📺 Watched episode 11 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (16:47 14 March 2024)
 -   📖 Read chapter 49 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (16:44 14 March 2024)
 -   📖 Read chapter 74 - 75 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (14:48 12 March 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Plans to read [Byeonbangui Oenoja (2023)](https://anilist.co/manga/171335) (22:04 10 March 2024)
 -   📖 Read chapter 65 - 69 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:51 10 March 2024)
 -   📖 Read chapter 52 - 64 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (13:38 10 March 2024)
--   📖 Read chapter 47 - 51 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (02:46 10 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
