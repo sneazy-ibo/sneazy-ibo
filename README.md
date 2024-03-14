@@ -31,7 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 76 - 82 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (17:53 14 March 2024)
+-   📖 Read chapter 76 - 86 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (18:11 14 March 2024)
 -   📖 Dropped [Kimi ja Nakya Dame na Dorei Shoujo](https://anilist.co/manga/146860) (17:19 14 March 2024)
 -   📖 Read chapter 129 of [QUESTISM](https://anilist.co/manga/140837) (17:18 14 March 2024)
 -   📖 Read chapter 98 - 99 of [The Novel's Extra](https://anilist.co/manga/152128) (17:02 14 March 2024)
