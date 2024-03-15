@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 94 of [Mythic Item Obtained](https://anilist.co/manga/151025) (13:30 15 March 2024)
 -   📖 Read chapter 76 - 90 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (18:30 14 March 2024)
 -   📖 Dropped [Kimi ja Nakya Dame na Dorei Shoujo](https://anilist.co/manga/146860) (17:19 14 March 2024)
 -   📖 Read chapter 129 of [QUESTISM](https://anilist.co/manga/140837) (17:18 14 March 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Read chapter 74 - 75 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (14:48 12 March 2024)
 -   📖 Read chapter 71 - 73 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (12:11 12 March 2024)
 -   📖 Read chapter 70 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (11:04 12 March 2024)
--   📖 Plans to read [Noblesse](https://anilist.co/manga/59983) (18:16 11 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
