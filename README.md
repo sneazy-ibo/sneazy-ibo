@@ -64,20 +64,20 @@ takarealist
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 17 March 2024
+From: 06 February 2024 - To: 18 March 2024
 
-Total Time: 171 hrs 46 mins
+Total Time: 179 hrs 54 mins
 
-Other                  56 hrs 21 mins  ████████▒░░░░░░░░░░░░░░░░   32.81 %
-Oblxvion               39 hrs 4 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
-Kotlin                 32 hrs 32 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
-XML                    21 hrs 42 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-Markdown               10 hrs 44 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Rust                   6 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-YAML                   1 hr 8 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Groovy                 1 hr            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-GitIgnore file         35 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Gradle                 27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Other                  56 hrs 21 mins  ███████▓░░░░░░░░░░░░░░░░░   31.33 %
+Oblxvion               39 hrs 4 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.72 %
+Kotlin                 36 hrs 34 mins  █████░░░░░░░░░░░░░░░░░░░░   20.33 %
+XML                    25 hrs 33 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
+Markdown               10 hrs 57 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+Rust                   6 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+YAML                   1 hr 8 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Groovy                 1 hr            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+GitIgnore file         35 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Gradle                 27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
