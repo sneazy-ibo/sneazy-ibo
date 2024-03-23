@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Solo Leveling](https://anilist.co/anime/151807) (19:06 23 March 2024)
 -   📺 Watched episode 12 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (02:39 21 March 2024)
 -   📺 Watched episode 10 of [Solo Leveling](https://anilist.co/anime/151807) (13:13 19 March 2024)
 -   📖 Read chapter 71 - 72 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (14:04 15 March 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Read chapter 129 of [QUESTISM](https://anilist.co/manga/140837) (17:18 14 March 2024)
 -   📖 Read chapter 98 - 99 of [The Novel's Extra](https://anilist.co/manga/152128) (17:02 14 March 2024)
 -   📺 Watched episode 11 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (16:47 14 March 2024)
--   📖 Read chapter 49 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (16:44 14 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
