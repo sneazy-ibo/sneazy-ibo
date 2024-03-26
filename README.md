@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 91 - 92 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:00 26 March 2024)
 -   📖 Read chapter 95 of [Mythic Item Obtained](https://anilist.co/manga/151025) (14:42 26 March 2024)
 -   📖 Read chapter 73 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (14:38 26 March 2024)
 -   📖 Read chapter 50 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (14:34 26 March 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📺 Watched episode 12 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (02:39 21 March 2024)
 -   📺 Watched episode 10 of [Solo Leveling](https://anilist.co/anime/151807) (13:13 19 March 2024)
 -   📖 Read chapter 71 - 72 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (14:04 15 March 2024)
--   📖 Read chapter 94 - 96 of [Mythic Item Obtained](https://anilist.co/manga/151025) (13:49 15 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
