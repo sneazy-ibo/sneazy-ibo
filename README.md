@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 50 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (14:34 26 March 2024)
 -   📖 Read chapter 130 - 131 of [QUESTISM](https://anilist.co/manga/140837) (03:52 26 March 2024)
 -   📺 Plans to watch [Your Name.](https://anilist.co/anime/21519) (03:33 24 March 2024)
 -   📺 Watched episode 11 of [Solo Leveling](https://anilist.co/anime/151807) (19:06 23 March 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📖 Read chapter 94 - 96 of [Mythic Item Obtained](https://anilist.co/manga/151025) (13:49 15 March 2024)
 -   📖 Read chapter 76 - 90 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (18:30 14 March 2024)
 -   📖 Dropped [Kimi ja Nakya Dame na Dorei Shoujo](https://anilist.co/manga/146860) (17:19 14 March 2024)
--   📖 Read chapter 129 of [QUESTISM](https://anilist.co/manga/140837) (17:18 14 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
