@@ -31,7 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 91 - 96 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:17 26 March 2024)
+-   📖 Read chapter 91 - 97 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:24 26 March 2024)
 -   📖 Read chapter 95 of [Mythic Item Obtained](https://anilist.co/manga/151025) (14:42 26 March 2024)
 -   📖 Read chapter 73 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (14:38 26 March 2024)
 -   📖 Read chapter 50 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (14:34 26 March 2024)
