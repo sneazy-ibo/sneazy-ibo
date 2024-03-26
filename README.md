@@ -31,7 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 130 of [QUESTISM](https://anilist.co/manga/140837) (03:45 26 March 2024)
+-   📖 Read chapter 130 - 131 of [QUESTISM](https://anilist.co/manga/140837) (03:52 26 March 2024)
 -   📺 Plans to watch [Your Name.](https://anilist.co/anime/21519) (03:33 24 March 2024)
 -   📺 Watched episode 11 of [Solo Leveling](https://anilist.co/anime/151807) (19:06 23 March 2024)
 -   📺 Watched episode 12 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (02:39 21 March 2024)
