@@ -31,6 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 106 - 107 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (19:03 27 March 2024)
 -   📖 Read chapter 101 - 105 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (18:06 26 March 2024)
 -   📖 Read chapter 91 - 100 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:49 26 March 2024)
 -   📖 Read chapter 95 of [Mythic Item Obtained](https://anilist.co/manga/151025) (14:42 26 March 2024)
@@ -40,7 +41,6 @@ takarealist
 -   📺 Plans to watch [Your Name.](https://anilist.co/anime/21519) (03:33 24 March 2024)
 -   📺 Watched episode 11 of [Solo Leveling](https://anilist.co/anime/151807) (19:06 23 March 2024)
 -   📺 Watched episode 12 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (02:39 21 March 2024)
--   📺 Watched episode 10 of [Solo Leveling](https://anilist.co/anime/151807) (13:13 19 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
