@@ -31,7 +31,7 @@ takarealist
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 106 - 113 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (19:49 27 March 2024)
+-   📖 Read chapter 106 - 115 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (20:03 27 March 2024)
 -   📖 Read chapter 101 - 105 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (18:06 26 March 2024)
 -   📖 Read chapter 91 - 100 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:49 26 March 2024)
 -   📖 Read chapter 95 of [Mythic Item Obtained](https://anilist.co/manga/151025) (14:42 26 March 2024)
