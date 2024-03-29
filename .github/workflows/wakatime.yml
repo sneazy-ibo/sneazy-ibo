@@ -1,18 +1,19 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
   schedule:
     # runs every 12h starting at 12pm
+    # now it's every 4h
     - cron: "0 */4 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+
     steps:
-        # this action name
+      # this action name
       - uses: athul/waka-readme@master
         with:
           GH_TOKEN: ${{ secrets.README_GH }}

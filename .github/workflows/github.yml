@@ -1,8 +1,10 @@
 name: Update README
 on:
   schedule:
+    # runs every 8h
     - cron: "0 */08 * * *"
   workflow_dispatch:
+
 jobs:
   build:
     name: Update this repo's README with recent activity
