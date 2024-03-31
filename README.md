@@ -52,6 +52,7 @@ GitIgnore file         36 mins         ░░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (06:42 31 March 2024)
 -   📺 Watched episode 13 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (03:38 29 March 2024)
 -   📖 Read chapter 106 - 121 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (20:51 27 March 2024)
 -   📖 Read chapter 101 - 105 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (18:06 26 March 2024)
@@ -61,7 +62,6 @@ GitIgnore file         36 mins         ░░░░░░░░░░░░░�
 -   📖 Read chapter 50 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (14:34 26 March 2024)
 -   📖 Read chapter 130 - 131 of [QUESTISM](https://anilist.co/manga/140837) (03:52 26 March 2024)
 -   📺 Plans to watch [Your Name.](https://anilist.co/anime/21519) (03:33 24 March 2024)
--   📺 Watched episode 11 of [Solo Leveling](https://anilist.co/anime/151807) (19:06 23 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
