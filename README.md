@@ -52,6 +52,7 @@ GitIgnore file         36 mins         ░░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Wangui Himeuro Hoegwihanda](https://anilist.co/manga/170724) (16:52 31 March 2024)
 -   📺 Completed [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (08:13 31 March 2024)
 -   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (06:42 31 March 2024)
 -   📺 Watched episode 13 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (03:38 29 March 2024)
@@ -61,7 +62,6 @@ GitIgnore file         36 mins         ░░░░░░░░░░░░░�
 -   📖 Read chapter 95 of [Mythic Item Obtained](https://anilist.co/manga/151025) (14:42 26 March 2024)
 -   📖 Read chapter 73 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (14:38 26 March 2024)
 -   📖 Read chapter 50 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (14:34 26 March 2024)
--   📖 Read chapter 130 - 131 of [QUESTISM](https://anilist.co/manga/140837) (03:52 26 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
