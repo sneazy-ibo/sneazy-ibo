@@ -52,6 +52,9 @@ GitIgnore file         36 mins         ░░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Weathering With You](https://anilist.co/anime/106286) (22:48 31 March 2024)
+-   📺 Completed [Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train](https://anilist.co/anime/112151) (22:47 31 March 2024)
+-   📺 Completed [Your Name.](https://anilist.co/anime/21519) (22:45 31 March 2024)
 -   📖 Plans to read [Wangui Himeuro Hoegwihanda](https://anilist.co/manga/170724) (16:52 31 March 2024)
 -   📺 Completed [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (08:13 31 March 2024)
 -   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (06:42 31 March 2024)
@@ -59,9 +62,6 @@ GitIgnore file         36 mins         ░░░░░░░░░░░░░�
 -   📖 Read chapter 106 - 121 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (20:51 27 March 2024)
 -   📖 Read chapter 101 - 105 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (18:06 26 March 2024)
 -   📖 Read chapter 91 - 100 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:49 26 March 2024)
--   📖 Read chapter 95 of [Mythic Item Obtained](https://anilist.co/manga/151025) (14:42 26 March 2024)
--   📖 Read chapter 73 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (14:38 26 March 2024)
--   📖 Read chapter 50 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (14:34 26 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
