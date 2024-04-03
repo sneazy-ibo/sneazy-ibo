@@ -5,7 +5,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,obsidian,androidstudio,mysql,vscode,css,html" />
+    <img src="https://skillicons.dev/icons?i=kotlin,figma,obsidian,androidstudio,vscode,css,html" />
   </a>
 </p>
 
