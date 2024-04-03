@@ -52,6 +52,9 @@ YAML                   1 hr 8 mins     ░░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 96 of [Mythic Item Obtained](https://anilist.co/manga/151025) (12:22 03 April 2024)
+-   📖 Read chapter 51 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (12:22 03 April 2024)
+-   📖 Read chapter 132 of [QUESTISM](https://anilist.co/manga/140837) (12:18 03 April 2024)
 -   📺 Completed [Weathering With You](https://anilist.co/anime/106286) (22:48 31 March 2024)
 -   📺 Completed [Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train](https://anilist.co/anime/112151) (22:47 31 March 2024)
 -   📺 Completed [Your Name.](https://anilist.co/anime/21519) (22:45 31 March 2024)
@@ -59,9 +62,6 @@ YAML                   1 hr 8 mins     ░░░░░░░░░░░░░�
 -   📺 Completed [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (08:13 31 March 2024)
 -   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (06:42 31 March 2024)
 -   📺 Watched episode 13 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (03:38 29 March 2024)
--   📖 Read chapter 106 - 121 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (20:51 27 March 2024)
--   📖 Read chapter 101 - 105 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (18:06 26 March 2024)
--   📖 Read chapter 91 - 100 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (15:49 26 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
