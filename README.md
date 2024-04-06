@@ -58,7 +58,7 @@ Svelte                 2 hrs 6 mins    ▒░░░░░░░░░░░░�
 -   📺 Completed [Weathering With You](https://anilist.co/anime/106286) (22:48 31 March 2024)
 -   📺 Completed [Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train](https://anilist.co/anime/112151) (22:47 31 March 2024)
 -   📺 Completed [Your Name.](https://anilist.co/anime/21519) (22:45 31 March 2024)
--   📖 Plans to read [Wangui Himeuro Hoegwihanda](https://anilist.co/manga/170724) (16:52 31 March 2024)
+-   📖 Plans to read [Returned by the King](https://anilist.co/manga/170724) (16:52 31 March 2024)
 -   📺 Completed [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (08:13 31 March 2024)
 -   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (06:42 31 March 2024)
 -   📺 Watched episode 13 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (03:38 29 March 2024)
