@@ -52,6 +52,7 @@ Rust                   6 hrs 18 mins   ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [The Fable](https://anilist.co/anime/166910) (22:54 26 May 2024)
 -   📺 Watched episode 1 - 6 of [WIND BREAKER](https://anilist.co/anime/163270) (00:38 11 May 2024)
 -   📖 Read chapter 96 of [Mythic Item Obtained](https://anilist.co/manga/151025) (12:22 03 April 2024)
 -   📖 Read chapter 51 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (12:22 03 April 2024)
@@ -61,7 +62,6 @@ Rust                   6 hrs 18 mins   ▒░░░░░░░░░░░░�
 -   📺 Completed [Your Name.](https://anilist.co/anime/21519) (22:45 31 March 2024)
 -   📖 Plans to read [Returned by the King](https://anilist.co/manga/170724) (16:52 31 March 2024)
 -   📺 Completed [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (08:13 31 March 2024)
--   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (06:42 31 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
