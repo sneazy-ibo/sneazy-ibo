@@ -52,6 +52,7 @@ Rust                   6 hrs 18 mins   ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 12 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (04:23 01 July 2024)
 -   📺 Watched episode 13 of [The Fable](https://anilist.co/anime/166910) (14:17 30 June 2024)
 -   📺 Completed [Kaiju No.8](https://anilist.co/anime/153288) (13:39 30 June 2024)
 -   📺 Watched episode 7 - 8 of [Kaiju No.8](https://anilist.co/anime/153288) (05:41 20 June 2024)
@@ -61,7 +62,6 @@ Rust                   6 hrs 18 mins   ▒░░░░░░░░░░░░�
 -   📖 Read chapter 132 of [QUESTISM](https://anilist.co/manga/140837) (12:18 03 April 2024)
 -   📺 Completed [Weathering With You](https://anilist.co/anime/106286) (22:48 31 March 2024)
 -   📺 Completed [Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train](https://anilist.co/anime/112151) (22:47 31 March 2024)
--   📺 Completed [Your Name.](https://anilist.co/anime/21519) (22:45 31 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
