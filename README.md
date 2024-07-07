@@ -52,8 +52,8 @@ Rust                   6 hrs 18 mins   ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 13 - 14 of [The Fable](https://anilist.co/anime/166910) (15:24 07 July 2024)
 -   📺 Watched episode 12 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (04:23 01 July 2024)
--   📺 Watched episode 13 of [The Fable](https://anilist.co/anime/166910) (14:17 30 June 2024)
 -   📺 Completed [Kaiju No.8](https://anilist.co/anime/153288) (13:39 30 June 2024)
 -   📺 Watched episode 7 - 8 of [Kaiju No.8](https://anilist.co/anime/153288) (05:41 20 June 2024)
 -   📺 Watched episode 1 - 6 of [WIND BREAKER](https://anilist.co/anime/163270) (00:38 11 May 2024)
