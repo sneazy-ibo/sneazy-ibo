@@ -52,6 +52,7 @@ SCSS                   6 hrs 51 mins   ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 15 of [The Fable](https://anilist.co/anime/166910) (21:34 14 July 2024)
 -   📺 Dropped [WIND BREAKER](https://anilist.co/anime/163270) (17:19 11 July 2024)
 -   📺 Completed [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (17:19 11 July 2024)
 -   📺 Plans to watch [Omniscient Reader](https://anilist.co/anime/179068) (21:57 07 July 2024)
@@ -61,7 +62,6 @@ SCSS                   6 hrs 51 mins   ▒░░░░░░░░░░░░�
 -   📺 Watched episode 7 - 8 of [Kaiju No.8](https://anilist.co/anime/153288) (05:41 20 June 2024)
 -   📺 Watched episode 1 - 6 of [WIND BREAKER](https://anilist.co/anime/163270) (00:38 11 May 2024)
 -   📖 Read chapter 96 of [Mythic Item Obtained](https://anilist.co/manga/151025) (12:22 03 April 2024)
--   📖 Read chapter 51 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (12:22 03 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
