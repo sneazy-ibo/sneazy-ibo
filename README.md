@@ -52,6 +52,7 @@ SCSS                   8 hrs 19 mins   ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 17 of [The Fable](https://anilist.co/anime/166910) (03:53 31 July 2024)
 -   📺 Watched episode 16 of [The Fable](https://anilist.co/anime/166910) (03:23 23 July 2024)
 -   📖 Read chapter 173 of [Juujika no Rokunin](https://anilist.co/manga/116671) (05:32 17 July 2024)
 -   📺 Watched episode 15 of [The Fable](https://anilist.co/anime/166910) (21:34 14 July 2024)
@@ -61,7 +62,6 @@ SCSS                   8 hrs 19 mins   ▒░░░░░░░░░░░░�
 -   📺 Watched episode 13 - 14 of [The Fable](https://anilist.co/anime/166910) (15:24 07 July 2024)
 -   📺 Watched episode 12 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (04:23 01 July 2024)
 -   📺 Completed [Kaiju No.8](https://anilist.co/anime/153288) (13:39 30 June 2024)
--   📺 Watched episode 7 - 8 of [Kaiju No.8](https://anilist.co/anime/153288) (05:41 20 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
