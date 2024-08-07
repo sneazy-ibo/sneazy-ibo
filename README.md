@@ -30,11 +30,11 @@ takarealist
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 05 August 2024
+From: 06 February 2024 - To: 06 August 2024
 
-Total Time: 506 hrs 27 mins
+Total Time: 506 hrs 28 mins
 
-Kotlin                 139 hrs 39 mins ███████░░░░░░░░░░░░░░░░░░   27.57 %
+Kotlin                 139 hrs 39 mins ███████░░░░░░░░░░░░░░░░░░   27.58 %
 Svelte                 78 hrs 27 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
 XML                    68 hrs 50 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
 Other                  59 hrs 30 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
