@@ -52,6 +52,7 @@ CSS                    9 hrs 2 mins    ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 24 of [The Fable](https://anilist.co/anime/166910) (14:30 25 September 2024)
 -   📺 Watched episode 22 of [The Fable](https://anilist.co/anime/166910) (07:37 08 September 2024)
 -   📺 Watched episode 17 of [The Fable](https://anilist.co/anime/166910) (03:53 31 July 2024)
 -   📺 Watched episode 16 of [The Fable](https://anilist.co/anime/166910) (03:23 23 July 2024)
@@ -61,7 +62,6 @@ CSS                    9 hrs 2 mins    ▒░░░░░░░░░░░░�
 -   📺 Completed [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (17:19 11 July 2024)
 -   📺 Plans to watch [Omniscient Reader](https://anilist.co/anime/179068) (21:57 07 July 2024)
 -   📺 Watched episode 13 - 14 of [The Fable](https://anilist.co/anime/166910) (15:24 07 July 2024)
--   📺 Watched episode 12 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (04:23 01 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
