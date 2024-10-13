@@ -52,6 +52,7 @@ CSS                    9 hrs 2 mins    ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 3 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (20:22 12 October 2024)
 -   📺 Watched episode 24 of [The Fable](https://anilist.co/anime/166910) (14:30 25 September 2024)
 -   📺 Watched episode 22 of [The Fable](https://anilist.co/anime/166910) (07:37 08 September 2024)
 -   📺 Watched episode 17 of [The Fable](https://anilist.co/anime/166910) (03:53 31 July 2024)
@@ -61,7 +62,6 @@ CSS                    9 hrs 2 mins    ▒░░░░░░░░░░░░�
 -   📺 Dropped [WIND BREAKER](https://anilist.co/anime/163270) (17:19 11 July 2024)
 -   📺 Completed [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (17:19 11 July 2024)
 -   📺 Plans to watch [Omniscient Reader](https://anilist.co/anime/179068) (21:57 07 July 2024)
--   📺 Watched episode 13 - 14 of [The Fable](https://anilist.co/anime/166910) (15:24 07 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
