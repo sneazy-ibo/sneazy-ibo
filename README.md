@@ -52,6 +52,7 @@ CSS                    9 hrs 2 mins    ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (14:38 27 October 2024)
 -   📺 Watched episode 3 of [DAN DA DAN](https://anilist.co/anime/171018) (01:56 27 October 2024)
 -   📺 Completed [The Fable](https://anilist.co/anime/166910) (01:55 27 October 2024)
 -   📺 Watched episode 2 - 3 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (20:22 12 October 2024)
@@ -61,7 +62,6 @@ CSS                    9 hrs 2 mins    ▒░░░░░░░░░░░░�
 -   📺 Watched episode 16 of [The Fable](https://anilist.co/anime/166910) (03:23 23 July 2024)
 -   📖 Read chapter 173 of [Juujika no Rokunin](https://anilist.co/manga/116671) (05:32 17 July 2024)
 -   📺 Watched episode 15 of [The Fable](https://anilist.co/anime/166910) (21:34 14 July 2024)
--   📺 Dropped [WIND BREAKER](https://anilist.co/anime/163270) (17:19 11 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
