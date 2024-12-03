@@ -30,15 +30,15 @@ takarealist
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 01 December 2024
+From: 06 February 2024 - To: 02 December 2024
 
-Total Time: 622 hrs 10 mins
+Total Time: 622 hrs 35 mins
 
-Kotlin                 139 hrs 39 mins █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
-JavaScript             122 hrs 19 mins █████░░░░░░░░░░░░░░░░░░░░   19.66 %
-Svelte                 78 hrs 27 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+Kotlin                 139 hrs 39 mins █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
+JavaScript             122 hrs 23 mins █████░░░░░░░░░░░░░░░░░░░░   19.66 %
+Svelte                 78 hrs 27 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
 XML                    68 hrs 50 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-Other                  67 hrs 57 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+Other                  68 hrs 17 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
 Oblxvion               39 hrs 4 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
 Go                     17 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 Markdown               17 hrs 1 min    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
