@@ -52,6 +52,7 @@ CSS                    9 hrs 6 mins    ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [DAN DA DAN](https://anilist.co/anime/171018) (22:43 06 December 2024)
 -   📺 Watched episode 3 - 4 of [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (01:29 02 December 2024)
 -   📺 Watched episode 10 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (23:51 30 November 2024)
 -   📺 Watched episode 9 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (23:26 30 November 2024)
@@ -61,7 +62,6 @@ CSS                    9 hrs 6 mins    ▒░░░░░░░░░░░░�
 -   📺 Watched episode 8 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (00:31 24 November 2024)
 -   📺 Watched episode 8 of [DAN DA DAN](https://anilist.co/anime/171018) (19:07 21 November 2024)
 -   📺 Watched episode 7 of [DAN DA DAN](https://anilist.co/anime/171018) (18:53 16 November 2024)
--   📺 Watched episode 8 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (18:52 16 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
