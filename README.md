@@ -52,6 +52,7 @@ CSS                    13 hrs 42 mins  ▓░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 13 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (00:23 23 December 2024)
 -   📺 Watched episode 11 of [DAN DA DAN](https://anilist.co/anime/171018) (17:38 13 December 2024)
 -   📺 Watched episode 10 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (23:13 08 December 2024)
 -   📺 Watched episode 10 of [DAN DA DAN](https://anilist.co/anime/171018) (22:43 06 December 2024)
@@ -61,7 +62,6 @@ CSS                    13 hrs 42 mins  ▓░░░░░░░░░░░░�
 -   📺 Watched episode 9 of [DAN DA DAN](https://anilist.co/anime/171018) (21:54 29 November 2024)
 -   📺 Watched episode 7 of [Demon Lord 2099](https://anilist.co/anime/163135) (01:20 24 November 2024)
 -   📺 Watched episode 9 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (00:55 24 November 2024)
--   📺 Watched episode 8 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (00:31 24 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
