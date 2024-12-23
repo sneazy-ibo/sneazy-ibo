@@ -60,7 +60,7 @@ CSS                    14 hrs 31 mins  ▓░░░░░░░░░░░░�
 -   📺 Watched episode 10 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (23:51 30 November 2024)
 -   📺 Watched episode 9 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (23:26 30 November 2024)
 -   📺 Watched episode 9 of [DAN DA DAN](https://anilist.co/anime/171018) (21:54 29 November 2024)
--   📺 Watched episode 7 of [Demon Lord 2099](https://anilist.co/anime/163135) (01:20 24 November 2024)
+-   📺 Watched episode 7 of [DEMON LORD 2099](https://anilist.co/anime/163135) (01:20 24 November 2024)
 -   📺 Watched episode 9 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (00:55 24 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
