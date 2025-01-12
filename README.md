@@ -52,6 +52,7 @@ CSS                    14 hrs 48 mins  ▓░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (19:05 11 January 2025)
 -   📺 Watched episode 9 - 13 of [Bleach](https://anilist.co/anime/269) (07:17 10 January 2025)
 -   📺 Dropped [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (06:34 07 January 2025)
 -   📺 Dropped [DEMON LORD 2099](https://anilist.co/anime/163135) (06:34 07 January 2025)
@@ -61,7 +62,6 @@ CSS                    14 hrs 48 mins  ▓░░░░░░░░░░░░�
 -   📺 Watched episode 13 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (00:23 23 December 2024)
 -   📺 Watched episode 11 of [DAN DA DAN](https://anilist.co/anime/171018) (17:38 13 December 2024)
 -   📺 Watched episode 10 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (23:13 08 December 2024)
--   📺 Watched episode 10 of [DAN DA DAN](https://anilist.co/anime/171018) (22:43 06 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
