@@ -52,6 +52,7 @@ CSS                    14 hrs 48 mins  ▓░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 41 - 47 of [Bleach](https://anilist.co/anime/269) (07:34 15 January 2025)
 -   📺 Watched episode 14 - 15 of [Bleach](https://anilist.co/anime/269) (00:51 13 January 2025)
 -   📺 Plans to watch [SAKAMOTO DAYS](https://anilist.co/anime/177709) (22:16 12 January 2025)
 -   📺 Watched episode 2 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (19:05 11 January 2025)
@@ -61,7 +62,6 @@ CSS                    14 hrs 48 mins  ▓░░░░░░░░░░░░�
 -   📺 Completed [DAN DA DAN](https://anilist.co/anime/171018) (06:34 07 January 2025)
 -   📺 Watched episode 8 of [Bleach](https://anilist.co/anime/269) (06:34 07 January 2025)
 -   📺 Watched episode 14 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (01:06 31 December 2024)
--   📺 Watched episode 13 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (00:23 23 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
