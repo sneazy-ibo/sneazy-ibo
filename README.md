@@ -52,6 +52,7 @@ CSS                    14 hrs 48 mins  ▓░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 59 - 60 of [Bleach](https://anilist.co/anime/269) (07:29 16 January 2025)
 -   📺 Watched episode 48 - 51 of [Bleach](https://anilist.co/anime/269) (09:52 15 January 2025)
 -   📺 Watched episode 41 - 47 of [Bleach](https://anilist.co/anime/269) (07:34 15 January 2025)
 -   📺 Watched episode 14 - 15 of [Bleach](https://anilist.co/anime/269) (00:51 13 January 2025)
@@ -61,7 +62,6 @@ CSS                    14 hrs 48 mins  ▓░░░░░░░░░░░░�
 -   📺 Dropped [The Strongest Magician in the Demon Lord's Army was a Human](https://anilist.co/anime/173584) (06:34 07 January 2025)
 -   📺 Dropped [DEMON LORD 2099](https://anilist.co/anime/163135) (06:34 07 January 2025)
 -   📺 Completed [DAN DA DAN](https://anilist.co/anime/171018) (06:34 07 January 2025)
--   📺 Watched episode 8 of [Bleach](https://anilist.co/anime/269) (06:34 07 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
