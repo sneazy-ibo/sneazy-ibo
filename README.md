@@ -52,16 +52,16 @@ CSS                    14 hrs 48 mins  ▓░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 19 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (03:23 02 February 2025)
+-   📺 Watched episode 4 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (02:57 02 February 2025)
+-   📺 Watched episode 5 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (02:57 02 February 2025)
+-   📺 Watched episode 5 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (02:36 02 February 2025)
 -   📺 Watched episode 3 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (06:54 31 January 2025)
 -   📺 Watched episode 18 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (17:37 29 January 2025)
 -   📺 Watched episode 4 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (18:14 28 January 2025)
 -   📺 Watched episode 3 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (17:51 28 January 2025)
 -   📺 Watched episode 4 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:06 25 January 2025)
 -   📺 Watched episode 15 - 17 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (13:36 20 January 2025)
--   📺 Watched episode 1 - 2 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (06:53 19 January 2025)
--   📺 Watched episode 3 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (06:18 19 January 2025)
--   📺 Watched episode 3 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (05:55 19 January 2025)
--   📺 Watched episode 2 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (04:08 19 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
