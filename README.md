@@ -52,6 +52,8 @@ CSS                    14 hrs 48 mins  ▓░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (03:39 17 March 2025)
+-   📺 Watched episode 11 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (03:14 17 March 2025)
 -   📺 Watched episode 24 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (23:38 08 March 2025)
 -   📺 Watched episode 10 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (22:57 08 March 2025)
 -   📺 Watched episode 23 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (18:43 01 March 2025)
@@ -60,8 +62,6 @@ CSS                    14 hrs 48 mins  ▓░░░░░░░░░░░░�
 -   📺 Watched episode 21 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (18:01 17 February 2025)
 -   📺 Watched episode 7 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (22:03 15 February 2025)
 -   📺 Watched episode 6 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (04:20 15 February 2025)
--   📺 Watched episode 20 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (22:35 08 February 2025)
--   📺 Watched episode 6 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (20:46 08 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
