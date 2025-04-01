@@ -30,17 +30,17 @@ takarealist
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 30 March 2025
+From: 06 February 2024 - To: 31 March 2025
 
-Total Time: 736 hrs 21 mins
+Total Time: 736 hrs 25 mins
 
-JavaScript             195 hrs 14 mins ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
+JavaScript             195 hrs 16 mins ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
 Kotlin                 139 hrs 39 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
 Other                  78 hrs 33 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-Svelte                 78 hrs 27 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+Svelte                 78 hrs 27 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
 XML                    68 hrs 50 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
 Oblxvion               39 hrs 4 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-HTML                   24 hrs 19 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+HTML                   24 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 Go                     18 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 Markdown               17 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 CSS                    14 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
