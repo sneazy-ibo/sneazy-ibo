@@ -52,6 +52,7 @@ CSS                    14 hrs 48 mins  ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Fire Force Season 3](https://anilist.co/anime/149118) (22:34 06 April 2025)
 -   📺 Completed [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (19:28 29 March 2025)
 -   📺 Completed [BLUE LOCK Season 2](https://anilist.co/anime/163146) (09:53 23 March 2025)
 -   📺 Completed [SAKAMOTO DAYS](https://anilist.co/anime/177709) (09:53 23 March 2025)
@@ -61,7 +62,6 @@ CSS                    14 hrs 48 mins  ▒░░░░░░░░░░░░�
 -   📺 Watched episode 11 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (03:14 17 March 2025)
 -   📺 Watched episode 24 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (23:38 08 March 2025)
 -   📺 Watched episode 10 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (22:57 08 March 2025)
--   📺 Watched episode 23 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (18:43 01 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
