@@ -52,6 +52,7 @@ CSS                    14 hrs 48 mins  ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Fire Force Season 3](https://anilist.co/anime/149118) (21:49 12 April 2025)
 -   📺 Watched episode 1 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (18:44 07 April 2025)
 -   📺 Watched episode 1 of [Fire Force Season 3](https://anilist.co/anime/149118) (22:34 06 April 2025)
 -   📺 Completed [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (19:28 29 March 2025)
@@ -61,7 +62,6 @@ CSS                    14 hrs 48 mins  ▒░░░░░░░░░░░░�
 -   📺 Watched episode 12 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:39 22 March 2025)
 -   📺 Completed [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (03:39 17 March 2025)
 -   📺 Watched episode 11 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (03:14 17 March 2025)
--   📺 Watched episode 24 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (23:38 08 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
