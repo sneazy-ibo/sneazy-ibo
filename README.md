@@ -52,6 +52,7 @@ Go                     18 hrs 7 mins   ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [Fire Force Season 3](https://anilist.co/anime/149118) (11:55 11 June 2025)
 -   📺 Watched episode 8 of [Fire Force Season 3](https://anilist.co/anime/149118) (19:40 24 May 2025)
 -   📺 Watched episode 3 of [Fire Force Season 3](https://anilist.co/anime/149118) (15:59 25 April 2025)
 -   📺 Watched episode 1 - 4 of [The Beginning After the End](https://anilist.co/anime/183161) (20:05 23 April 2025)
@@ -61,7 +62,6 @@ Go                     18 hrs 7 mins   ▒░░░░░░░░░░░░�
 -   📺 Completed [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (19:28 29 March 2025)
 -   📺 Completed [BLUE LOCK Season 2](https://anilist.co/anime/163146) (09:53 23 March 2025)
 -   📺 Completed [SAKAMOTO DAYS](https://anilist.co/anime/177709) (09:53 23 March 2025)
--   📺 Dropped [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (04:59 23 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
