@@ -52,6 +52,7 @@ Go                     18 hrs 7 mins   ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [LAZARUS](https://anilist.co/anime/167336) (01:37 22 June 2025)
 -   📺 Watched episode 10 of [Fire Force Season 3](https://anilist.co/anime/149118) (11:55 11 June 2025)
 -   📺 Watched episode 8 of [Fire Force Season 3](https://anilist.co/anime/149118) (19:40 24 May 2025)
 -   📺 Watched episode 3 of [Fire Force Season 3](https://anilist.co/anime/149118) (15:59 25 April 2025)
@@ -61,7 +62,6 @@ Go                     18 hrs 7 mins   ▒░░░░░░░░░░░░�
 -   📺 Watched episode 1 of [Fire Force Season 3](https://anilist.co/anime/149118) (22:34 06 April 2025)
 -   📺 Completed [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (19:28 29 March 2025)
 -   📺 Completed [BLUE LOCK Season 2](https://anilist.co/anime/163146) (09:53 23 March 2025)
--   📺 Completed [SAKAMOTO DAYS](https://anilist.co/anime/177709) (09:53 23 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
