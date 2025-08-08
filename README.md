@@ -52,6 +52,7 @@ Java                   21 hrs 43 mins  ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (18:14 07 August 2025)
 -   📺 Watched episode 4 - 5 of [The Summer Hikaru Died](https://anilist.co/anime/177689) (03:52 06 August 2025)
 -   📺 Watched episode 5 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (15:48 04 August 2025)
 -   📺 Watched episode 4 of [Gachiakuta](https://anilist.co/anime/178025) (16:45 03 August 2025)
@@ -61,7 +62,6 @@ Java                   21 hrs 43 mins  ▒░░░░░░░░░░░░�
 -   📺 Dropped [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (20:09 23 July 2025)
 -   📺 Watched episode 5 of [Lord of Mysteries](https://anilist.co/anime/137667) (13:23 21 July 2025)
 -   📺 Watched episode 3 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (20:57 19 July 2025)
--   📺 Watched episode 3 of [The Summer Hikaru Died](https://anilist.co/anime/177689) (20:28 19 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
