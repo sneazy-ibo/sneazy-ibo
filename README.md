@@ -52,6 +52,7 @@ Java                   21 hrs 43 mins  ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (15:53 15 August 2025)
 -   📺 Watched episode 6 of [The Summer Hikaru Died](https://anilist.co/anime/177689) (21:03 11 August 2025)
 -   📺 Watched episode 5 of [Gachiakuta](https://anilist.co/anime/178025) (21:43 10 August 2025)
 -   📺 Watched episode 6 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (18:55 09 August 2025)
@@ -61,7 +62,6 @@ Java                   21 hrs 43 mins  ▒░░░░░░░░░░░░�
 -   📺 Watched episode 4 of [Gachiakuta](https://anilist.co/anime/178025) (16:45 03 August 2025)
 -   📺 Watched episode 5 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (18:49 02 August 2025)
 -   📺 Watched episode 3 of [Gachiakuta](https://anilist.co/anime/178025) (19:47 28 July 2025)
--   📺 Watched episode 4 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (23:08 27 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
