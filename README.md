@@ -52,6 +52,7 @@ Java                   21 hrs 43 mins  ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Uncle from Another World](https://anilist.co/anime/135806) (23:38 17 August 2025)
 -   📺 Watched episode 1 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (18:07 16 August 2025)
 -   📺 Watched episode 7 of [The Summer Hikaru Died](https://anilist.co/anime/177689) (17:37 16 August 2025)
 -   📺 Watched episode 7 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (04:02 16 August 2025)
@@ -61,7 +62,6 @@ Java                   21 hrs 43 mins  ▒░░░░░░░░░░░░�
 -   📺 Watched episode 6 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (18:55 09 August 2025)
 -   📺 Watched episode 6 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (18:14 07 August 2025)
 -   📺 Watched episode 4 - 5 of [The Summer Hikaru Died](https://anilist.co/anime/177689) (03:52 06 August 2025)
--   📺 Watched episode 5 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (15:48 04 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
