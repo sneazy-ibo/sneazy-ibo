@@ -52,6 +52,8 @@ Java                   21 hrs 43 mins  ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 8 of [Uncle from Another World](https://anilist.co/anime/135806) (14:06 20 August 2025)
+-   📺 Watched episode 6 of [Gachiakuta](https://anilist.co/anime/178025) (13:16 20 August 2025)
 -   📺 Watched episode 6 of [Uncle from Another World](https://anilist.co/anime/135806) (00:39 19 August 2025)
 -   📺 Watched episode 4 - 5 of [Uncle from Another World](https://anilist.co/anime/135806) (19:57 18 August 2025)
 -   📺 Watched episode 1 - 3 of [Uncle from Another World](https://anilist.co/anime/135806) (23:38 17 August 2025)
@@ -60,8 +62,6 @@ Java                   21 hrs 43 mins  ▒░░░░░░░░░░░░�
 -   📺 Watched episode 7 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (04:02 16 August 2025)
 -   📺 Watched episode 7 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (15:53 15 August 2025)
 -   📺 Watched episode 6 of [The Summer Hikaru Died](https://anilist.co/anime/177689) (21:03 11 August 2025)
--   📺 Watched episode 5 of [Gachiakuta](https://anilist.co/anime/178025) (21:43 10 August 2025)
--   📺 Watched episode 6 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (18:55 09 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
