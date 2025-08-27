@@ -52,6 +52,7 @@ Java                   21 hrs 43 mins  ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [Gachiakuta](https://anilist.co/anime/178025) (17:12 26 August 2025)
 -   📺 Watched episode 8 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (13:07 23 August 2025)
 -   📺 Completed [Uncle from Another World](https://anilist.co/anime/135806) (18:07 21 August 2025)
 -   📺 Watched episode 9 - 12 of [Uncle from Another World](https://anilist.co/anime/135806) (17:42 21 August 2025)
@@ -61,7 +62,6 @@ Java                   21 hrs 43 mins  ▒░░░░░░░░░░░░�
 -   📺 Watched episode 6 of [Uncle from Another World](https://anilist.co/anime/135806) (00:39 19 August 2025)
 -   📺 Watched episode 4 - 5 of [Uncle from Another World](https://anilist.co/anime/135806) (19:57 18 August 2025)
 -   📺 Watched episode 1 - 3 of [Uncle from Another World](https://anilist.co/anime/135806) (23:38 17 August 2025)
--   📺 Watched episode 1 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (18:07 16 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
