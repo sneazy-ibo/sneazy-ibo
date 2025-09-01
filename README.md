@@ -52,6 +52,8 @@ CSS                    22 hrs 20 mins  ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (18:00 31 August 2025)
+-   📺 Watched episode 8 of [Gachiakuta](https://anilist.co/anime/178025) (17:28 31 August 2025)
 -   📺 Watched episode 9 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (15:19 29 August 2025)
 -   📺 Watched episode 7 of [Gachiakuta](https://anilist.co/anime/178025) (17:12 26 August 2025)
 -   📺 Watched episode 8 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (13:07 23 August 2025)
@@ -60,8 +62,6 @@ CSS                    22 hrs 20 mins  ▒░░░░░░░░░░░░�
 -   📺 Watched episode 8 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (16:46 21 August 2025)
 -   📺 Watched episode 7 - 8 of [Uncle from Another World](https://anilist.co/anime/135806) (14:06 20 August 2025)
 -   📺 Watched episode 6 of [Gachiakuta](https://anilist.co/anime/178025) (13:16 20 August 2025)
--   📺 Watched episode 6 of [Uncle from Another World](https://anilist.co/anime/135806) (00:39 19 August 2025)
--   📺 Watched episode 4 - 5 of [Uncle from Another World](https://anilist.co/anime/135806) (19:57 18 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
