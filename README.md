@@ -52,6 +52,7 @@ JSON                   25 hrs 24 mins  ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Gachiakuta](https://anilist.co/anime/178025) (19:46 07 September 2025)
 -   📺 Watched episode 1 - 12 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (02:02 07 September 2025)
 -   📺 Completed [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (22:21 03 September 2025)
 -   📺 Watched episode 1 - 11 of [Wistoria: Wand and Sword](https://anilist.co/anime/174576) (21:58 03 September 2025)
@@ -61,7 +62,6 @@ JSON                   25 hrs 24 mins  ▒░░░░░░░░░░░░�
 -   📺 Watched episode 9 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (15:19 29 August 2025)
 -   📺 Watched episode 7 of [Gachiakuta](https://anilist.co/anime/178025) (17:12 26 August 2025)
 -   📺 Watched episode 8 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (13:07 23 August 2025)
--   📺 Completed [Uncle from Another World](https://anilist.co/anime/135806) (18:07 21 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
