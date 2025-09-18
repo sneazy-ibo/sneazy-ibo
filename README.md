@@ -52,7 +52,7 @@ JSON                   25 hrs 54 mins  ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [Gate 2](https://anilist.co/anime/21364) (16:47 17 September 2025)
+-   📺 Watched episode 1 - 4 of [Gate 2](https://anilist.co/anime/21364) (17:08 17 September 2025)
 -   📺 Completed [Gate](https://anilist.co/anime/20994) (15:21 17 September 2025)
 -   📺 Watched episode 1 - 11 of [Gate](https://anilist.co/anime/20994) (14:58 17 September 2025)
 -   📺 Completed [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (05:44 16 September 2025)
