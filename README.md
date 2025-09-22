@@ -52,6 +52,7 @@ JSON                   26 hrs 17 mins  ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Gachiakuta](https://anilist.co/anime/178025) (19:42 21 September 2025)
 -   📺 Completed [DAN DA DAN Season 2](https://anilist.co/anime/185660) (01:44 21 September 2025)
 -   📺 Watched episode 11 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (01:17 21 September 2025)
 -   📺 Completed [Gate 2](https://anilist.co/anime/21364) (04:41 18 September 2025)
@@ -61,7 +62,6 @@ JSON                   26 hrs 17 mins  ▒░░░░░░░░░░░░�
 -   📺 Watched episode 1 - 11 of [Gate](https://anilist.co/anime/20994) (14:58 17 September 2025)
 -   📺 Completed [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (05:44 16 September 2025)
 -   📺 Watched episode 10 of [Gachiakuta](https://anilist.co/anime/178025) (17:32 14 September 2025)
--   📺 Watched episode 10 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (18:36 12 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
