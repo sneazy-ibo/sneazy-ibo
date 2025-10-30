@@ -30,20 +30,20 @@ takarealist
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 28 October 2025
+From: 06 February 2024 - To: 29 October 2025
 
-Total Time: 1,517 hrs 6 mins
+Total Time: 1,522 hrs 11 mins
 
-JavaScript             802 hrs 2 mins  █████████████▒░░░░░░░░░░░   52.87 %
-Kotlin                 139 hrs 39 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-Other                  90 hrs 14 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-Svelte                 78 hrs 27 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-HTML                   73 hrs 44 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-XML                    68 hrs 50 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Java                   60 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Oblxvion               39 hrs 4 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Markdown               29 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-CSS                    29 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+JavaScript             805 hrs 57 mins █████████████▒░░░░░░░░░░░   52.95 %
+Kotlin                 139 hrs 39 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Other                  90 hrs 15 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Svelte                 78 hrs 27 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+HTML                   73 hrs 55 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+XML                    68 hrs 50 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Java                   60 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Oblxvion               39 hrs 4 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Markdown               29 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+CSS                    29 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
