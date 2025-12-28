@@ -69,12 +69,12 @@ JSON                   31 hrs 57 mins  ▒░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4](undefined) in [Dalrae1/Powerline.io](https://github.com/Dalrae1/Powerline.io)
-2.  Labeled issue [#25673](https://github.com/oven-sh/bun/issues/25673) in [oven-sh/bun](https://github.com/oven-sh/bun)
+1. ❌ Merged PR [#4](undefined) in [Dalrae1/Powerline.io](https://github.com/Dalrae1/Powerline.io)
+2. 💪 Opened PR [#4](undefined) in [Dalrae1/Powerline.io](https://github.com/Dalrae1/Powerline.io)
 3.  Labeled issue [#25673](https://github.com/oven-sh/bun/issues/25673) in [oven-sh/bun](https://github.com/oven-sh/bun)
-4. ❗ Opened issue [#25673](https://github.com/oven-sh/bun/issues/25673) in [oven-sh/bun](https://github.com/oven-sh/bun)
-5. 🔒 Closed issue [#8](https://github.com/GuilleDiazFentanes/AutoClaim-AutoRoll-AutoReact-MudaeBot-2025/issues/8) in [GuilleDiazFentanes/AutoClaim-AutoRoll-AutoReact-MudaeBot-2025](https://github.com/GuilleDiazFentanes/AutoClaim-AutoRoll-AutoReact-MudaeBot-2025)
-6. 🗣 Commented on [#465](https://github.com/rebelonion/Dantotsu/issues/465#issuecomment-2257388359) in [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu)
+4.  Labeled issue [#25673](https://github.com/oven-sh/bun/issues/25673) in [oven-sh/bun](https://github.com/oven-sh/bun)
+5. ❗ Opened issue [#25673](https://github.com/oven-sh/bun/issues/25673) in [oven-sh/bun](https://github.com/oven-sh/bun)
+6. 🔒 Closed issue [#8](https://github.com/GuilleDiazFentanes/AutoClaim-AutoRoll-AutoReact-MudaeBot-2025/issues/8) in [GuilleDiazFentanes/AutoClaim-AutoRoll-AutoReact-MudaeBot-2025](https://github.com/GuilleDiazFentanes/AutoClaim-AutoRoll-AutoReact-MudaeBot-2025)
 7. 🗣 Commented on [#457](https://github.com/rebelonion/Dantotsu/issues/457#issuecomment-2256121324) in [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu)
 8. 🗣 Commented on [#457](https://github.com/rebelonion/Dantotsu/issues/457#issuecomment-2256120426) in [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu)
 9. 🗣 Commented on [#457](https://github.com/rebelonion/Dantotsu/issues/457#issuecomment-2256119951) in [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu)
