@@ -30,7 +30,7 @@ takarealist
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 06 January 2026
+From: 06 February 2024 - To: 07 January 2026
 
 Total Time: 1,807 hrs 53 mins
 
