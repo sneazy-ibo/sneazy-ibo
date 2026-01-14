@@ -52,6 +52,8 @@ JSON                   33 hrs 1 min    ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [The Darwin Incident](https://anilist.co/anime/177679) (22:08 13 January 2026)
+-   📺 Watched episode 1 of [Sentenced to Be a Hero](https://anilist.co/anime/167152) (21:33 13 January 2026)
 -   📺 Watched episode 1 of [Sentenced to Be a Hero](https://anilist.co/anime/167152) (15:14 10 January 2026)
 -   📺 Watched episode 1 of [Sentenced to Be a Hero](https://anilist.co/anime/167152) (03:58 10 January 2026)
 -   📺 Watched episode 1 - 2 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (02:46 10 January 2026)
@@ -60,8 +62,6 @@ JSON                   33 hrs 1 min    ▒░░░░░░░░░░░░�
 -   📺 Watched episode 11 of [Gachiakuta](https://anilist.co/anime/178025) (19:42 21 September 2025)
 -   📺 Completed [DAN DA DAN Season 2](https://anilist.co/anime/185660) (01:44 21 September 2025)
 -   📺 Watched episode 11 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (01:17 21 September 2025)
--   📺 Completed [Gate 2](https://anilist.co/anime/21364) (04:41 18 September 2025)
--   📺 Watched episode 5 - 11 of [Gate 2](https://anilist.co/anime/21364) (04:16 18 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
