@@ -52,6 +52,7 @@ JSON                   33 hrs 1 min    ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [SHIBOYUGI: Playing Death Games to Put Food on the Table](https://anilist.co/anime/180746) (19:20 20 January 2026)
 -   📺 Watched episode 2 of [Sentenced to Be a Hero](https://anilist.co/anime/167152) (01:42 20 January 2026)
 -   📺 Watched episode 1 of [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (01:00 20 January 2026)
 -   📺 Watched episode 3 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (22:35 18 January 2026)
@@ -61,7 +62,6 @@ JSON                   33 hrs 1 min    ▒░░░░░░░░░░░░�
 -   📺 Watched episode 1 of [Sentenced to Be a Hero](https://anilist.co/anime/167152) (03:58 10 January 2026)
 -   📺 Watched episode 1 - 2 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (02:46 10 January 2026)
 -   📺 Completed [Secrets of the Silent Witch](https://anilist.co/anime/179966) (21:10 05 October 2025)
--   📺 Watched episode 12 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (08:49 27 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
