@@ -52,6 +52,7 @@ JSON                   33 hrs 1 min    ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (05:21 24 January 2026)
 -   📺 Watched episode 4 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (20:02 22 January 2026)
 -   📺 Watched episode 3 of [SHIBOYUGI: Playing Death Games to Put Food on the Table](https://anilist.co/anime/180746) (21:44 21 January 2026)
 -   📺 Watched episode 1 - 2 of [SHIBOYUGI: Playing Death Games to Put Food on the Table](https://anilist.co/anime/180746) (19:20 20 January 2026)
@@ -61,7 +62,6 @@ JSON                   33 hrs 1 min    ▒░░░░░░░░░░░░�
 -   📺 Watched episode 1 of [The Darwin Incident](https://anilist.co/anime/177679) (22:08 13 January 2026)
 -   📺 Watched episode 1 of [Sentenced to Be a Hero](https://anilist.co/anime/167152) (21:33 13 January 2026)
 -   📺 Watched episode 1 of [Sentenced to Be a Hero](https://anilist.co/anime/167152) (15:14 10 January 2026)
--   📺 Watched episode 1 of [Sentenced to Be a Hero](https://anilist.co/anime/167152) (03:58 10 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
