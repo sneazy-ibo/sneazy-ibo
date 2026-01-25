@@ -52,6 +52,9 @@ JSON                   33 hrs 1 min    ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (01:27 25 January 2026)
+-   📺 Watched episode 1 - 4 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (00:07 25 January 2026)
+-   📺 Watched episode 3 of [Sentenced to Be a Hero](https://anilist.co/anime/167152) (19:30 24 January 2026)
 -   📺 Watched episode 2 of [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (05:21 24 January 2026)
 -   📺 Watched episode 4 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (20:02 22 January 2026)
 -   📺 Watched episode 3 of [SHIBOYUGI: Playing Death Games to Put Food on the Table](https://anilist.co/anime/180746) (21:44 21 January 2026)
@@ -59,9 +62,6 @@ JSON                   33 hrs 1 min    ▒░░░░░░░░░░░░�
 -   📺 Watched episode 2 of [Sentenced to Be a Hero](https://anilist.co/anime/167152) (01:42 20 January 2026)
 -   📺 Watched episode 1 of [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (01:00 20 January 2026)
 -   📺 Watched episode 3 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (22:35 18 January 2026)
--   📺 Watched episode 1 of [The Darwin Incident](https://anilist.co/anime/177679) (22:08 13 January 2026)
--   📺 Watched episode 1 of [Sentenced to Be a Hero](https://anilist.co/anime/167152) (21:33 13 January 2026)
--   📺 Watched episode 1 of [Sentenced to Be a Hero](https://anilist.co/anime/167152) (15:14 10 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
