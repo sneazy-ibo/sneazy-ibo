@@ -52,6 +52,7 @@ JSON                   33 hrs 1 min    ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched 1 of [Saga of Tanya the Evil - the Movie -](https://anilist.co/anime/100878) (16:08 27 January 2026)
 -   📺 Completed [Saga of Tanya the Evil - the Movie -](https://anilist.co/anime/100878) (01:07 26 January 2026)
 -   📺 Completed [Saga of Tanya the Evil](https://anilist.co/anime/21613) (22:20 25 January 2026)
 -   📺 Watched episode 9 - 11 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (21:56 25 January 2026)
@@ -61,7 +62,6 @@ JSON                   33 hrs 1 min    ▒░░░░░░░░░░░░�
 -   📺 Watched episode 3 of [Sentenced to Be a Hero](https://anilist.co/anime/167152) (19:30 24 January 2026)
 -   📺 Watched episode 2 of [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (05:21 24 January 2026)
 -   📺 Watched episode 4 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (20:02 22 January 2026)
--   📺 Watched episode 3 of [SHIBOYUGI: Playing Death Games to Put Food on the Table](https://anilist.co/anime/180746) (21:44 21 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
