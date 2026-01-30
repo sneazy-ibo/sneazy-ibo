@@ -52,6 +52,7 @@ JSON                   33 hrs 1 min    ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (21:13 29 January 2026)
 -   📺 Rewatched 1 of [Saga of Tanya the Evil - the Movie -](https://anilist.co/anime/100878) (19:03 28 January 2026)
 -   📺 Rewatched 1 of [Saga of Tanya the Evil - the Movie -](https://anilist.co/anime/100878) (18:59 28 January 2026)
 -   📺 Rewatched 1 of [Saga of Tanya the Evil - the Movie -](https://anilist.co/anime/100878) (16:08 27 January 2026)
@@ -61,7 +62,6 @@ JSON                   33 hrs 1 min    ▒░░░░░░░░░░░░�
 -   📺 Watched episode 6 - 8 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (19:24 25 January 2026)
 -   📺 Watched episode 5 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (01:27 25 January 2026)
 -   📺 Watched episode 1 - 4 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (00:07 25 January 2026)
--   📺 Watched episode 3 of [Sentenced to Be a Hero](https://anilist.co/anime/167152) (19:30 24 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
