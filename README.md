@@ -52,6 +52,8 @@ JSON                   33 hrs 8 mins   ▒░░░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (20:04 08 February 2026)
+-   📺 Watched episode 5 of [SHIBOYUGI: Playing Death Games to Put Food on the Table](https://anilist.co/anime/180746) (19:33 08 February 2026)
 -   📺 Watched episode 6 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (17:32 07 February 2026)
 -   📺 Watched episode 4 of [SHIBOYUGI: Playing Death Games to Put Food on the Table](https://anilist.co/anime/180746) (23:29 02 February 2026)
 -   📺 Watched episode 3 of [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (17:37 30 January 2026)
@@ -60,8 +62,6 @@ JSON                   33 hrs 8 mins   ▒░░░░░░░░░░░░�
 -   📺 Rewatched 1 of [Saga of Tanya the Evil - the Movie -](https://anilist.co/anime/100878) (18:59 28 January 2026)
 -   📺 Rewatched 1 of [Saga of Tanya the Evil - the Movie -](https://anilist.co/anime/100878) (16:08 27 January 2026)
 -   📺 Completed [Saga of Tanya the Evil - the Movie -](https://anilist.co/anime/100878) (01:07 26 January 2026)
--   📺 Completed [Saga of Tanya the Evil](https://anilist.co/anime/21613) (22:20 25 January 2026)
--   📺 Watched episode 9 - 11 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (21:56 25 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
