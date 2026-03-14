@@ -52,6 +52,7 @@ JSON                   35 hrs 8 mins         ▒░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (04:10 14 March 2026)
 -   📺 Watched episode 9 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (23:36 06 March 2026)
 -   📺 Watched episode 8 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (02:26 28 February 2026)
 -   📺 Watched episode 5 of [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (00:00 16 February 2026)
@@ -61,7 +62,6 @@ JSON                   35 hrs 8 mins         ▒░░░░░░░░░░�
 -   📺 Watched episode 5 of [SHIBOYUGI: Playing Death Games to Put Food on the Table](https://anilist.co/anime/180746) (19:33 08 February 2026)
 -   📺 Watched episode 6 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (17:32 07 February 2026)
 -   📺 Watched episode 4 of [SHIBOYUGI: Playing Death Games to Put Food on the Table](https://anilist.co/anime/180746) (23:29 02 February 2026)
--   📺 Watched episode 3 of [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (17:37 30 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
