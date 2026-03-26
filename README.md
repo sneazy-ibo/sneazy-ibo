@@ -30,20 +30,20 @@ takarealist
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 24 March 2026
+From: 06 February 2024 - To: 25 March 2026
 
-Total Time: 1,943 hrs 15 mins
+Total Time: 1,946 hrs 48 mins
 
-JavaScript             1,160 hrs             ███████████████░░░░░░░░░░   59.69 %
-Kotlin                 139 hrs 43 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Other                  100 hrs 39 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+JavaScript             1,160 hrs 7 mins      ███████████████░░░░░░░░░░   59.59 %
+Kotlin                 139 hrs 43 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Other                  100 hrs 39 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 HTML                   80 hrs 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-Svelte                 78 hrs 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Svelte                 78 hrs 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 XML                    68 hrs 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Java                   60 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Java                   60 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 Oblxvion               39 hrs 4 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 CSS                    38 hrs 42 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-JSON                   35 hrs 8 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+JSON                   35 hrs 9 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
