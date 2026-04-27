@@ -52,6 +52,7 @@ Markdown               39 hrs 3 mins         ▒░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Witch Hat Atelier](https://anilist.co/anime/147105) (16:45 27 April 2026)
 -   📺 Watched episode 3 - 4 of [Witch Hat Atelier](https://anilist.co/anime/147105) (16:35 26 April 2026)
 -   📺 Watched episode 1 - 2 of [Witch Hat Atelier](https://anilist.co/anime/147105) (21:13 21 April 2026)
 -   📺 Watched episode 1 of [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (20:06 18 April 2026)
@@ -61,7 +62,6 @@ Markdown               39 hrs 3 mins         ▒░░░░░░░░░░�
 -   📺 Watched episode 9 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (23:36 06 March 2026)
 -   📺 Watched episode 8 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (02:26 28 February 2026)
 -   📺 Watched episode 5 of [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (00:00 16 February 2026)
--   📺 Watched episode 6 of [SHIBOYUGI: Playing Death Games to Put Food on the Table](https://anilist.co/anime/180746) (23:32 13 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
