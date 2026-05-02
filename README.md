@@ -52,6 +52,7 @@ Markdown               39 hrs 3 mins         ▒░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Daemons of the Shadow Realm](https://anilist.co/anime/195600) (14:24 02 May 2026)
 -   📺 Watched episode 1 of [Daemons of the Shadow Realm](https://anilist.co/anime/195600) (19:25 30 April 2026)
 -   📺 Watched episode 5 of [Witch Hat Atelier](https://anilist.co/anime/147105) (16:45 27 April 2026)
 -   📺 Watched episode 3 - 4 of [Witch Hat Atelier](https://anilist.co/anime/147105) (16:35 26 April 2026)
@@ -61,7 +62,6 @@ Markdown               39 hrs 3 mins         ▒░░░░░░░░░░�
 -   📺 Watched episode 11 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (20:31 20 March 2026)
 -   📺 Watched episode 10 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (04:10 14 March 2026)
 -   📺 Watched episode 9 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (23:36 06 March 2026)
--   📺 Watched episode 8 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (02:26 28 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
