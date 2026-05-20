@@ -22,7 +22,11 @@
 takarealist
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/951737931159187457?theme=dark&bg=Oe1116&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=currently%20offline...)](https://discord.com/users/951737931159187457)
+<p align="center">
+  <a href="https://discord.com/users/951737931159187457">
+    <img src="https://lanyard-profile-readme.vercel.app/api/951737931159187457?theme=dark&bg=0e1116&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=currently%20offline..." />
+  </a>
+</p>
 
 # WakaTime Activity
 
