@@ -25,8 +25,8 @@ Production-scale rewrite of a multiplayer browser game client with real-time bac
 A lightweight development toolchain for fast iteration in browser-based projects.
 
 - WebSocket-driven Hot Module Reloading (instant per-file updates)
-- File watching with glob rules, ignore patterns, and cold reload support
-- Built-in dev server with HTTP proxy and static file handling
+- File watching with glob rules, ignore patterns and cold reload support
+- Built-in dev server with built-in proxying and static file handling
 - Instant updates without full page reload
 - Built on Bun’s native server APIs
 
