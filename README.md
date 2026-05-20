@@ -12,11 +12,11 @@ Informatics student building web applications, fullstack systems, and developer 
 ## 🚀 Projects
 
 ### 🐍 Neoline - Modded Powerline.io Client
-Custom frontend rewrite of a multiplayer browser game with extended features and backend integration.
+Production-scale rewrite of a multiplayer browser game client with real-time backend infrastructure
 
-- Complete frontend rewrite with a focus on max performance and bug fixes
-- Custom backend with realtime features (chat, cosmetics, discord bridge)
-- First ever native shadow replayer for a browser game
+- Complete rewrite of the original game client focusing on performance and stability
+- Custom backend for real-time features (chat, cosmetics, Discord bridge)
+- Canvas native shadow replay system for browser gameplay
 - Use of modern web technologies (Preact, MediaBunny)
 
 > V2 has been in progress for 6 months and is close to release
