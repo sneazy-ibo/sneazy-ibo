@@ -1,34 +1,36 @@
-<div align="center">
-<a href="https://github.com/kawarimidoll/typograssy">
-    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%20%20%5E%5E%20sup%20iam%20ibo%20--&&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
-</a>
-</div>
+# Hi, I'm Ibo 👋
+
+Informatics student building web applications, fullstack systems, and developer tools through hands-on projects.
+
+## 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,figma,androidstudio,java,nodejs,bun,svelte,js,ts" />
+    <img src="https://skillicons.dev/icons?i=js,ts,svelte,nodejs,bun,kotlin,java,git" />
   </a>
 </p>
 
-<p align="center">
-    <a href="https://anilist.co/user/takarealist112/">
-      <img src="https://i.imgur.com/LDvh7Lg.gif" alt="AniList" style="width: 70px; height: auto;">
-    </a>
-    <a href="https://discord.gg/4HPZ5nAWwM/">
-      <img src="https://i.imgur.com/5o3Y9Jb.gif" alt="Dantotsu" style="width: 70px; height: auto;">
-    </a>
-</p>
+## 🚀 Projects
 
-<p align="center">
-takarealist
-</p>
+### 🐍 Neoline - Modded Powerline.io Client
+Custom frontend rewrite of a multiplayer browser game with extended features and backend integration.
 
-<p align="center">
-  <a href="https://discord.com/users/951737931159187457">
-    <img src="https://lanyard-profile-readme.vercel.app/api/951737931159187457?theme=dark&bg=0e1116&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=currently%20offline..." />
-  </a>
-</p>
+- Complete frontend rewrite with a focus on max performance and bug fixes
+- Custom backend with realtime features (chat, cosmetics, discord bridge)
+- First ever native shadow replayer for a browser game
+- Use of modern web technologies (Preact, MediaBunny)
 
-# WakaTime Activity
+> V2 has been in progress for 6 months and is close to release
+
+### ⚙️ Cindel - Dev Tooling & HMR System
+A lightweight development toolchain for fast iteration in browser-based projects.
+
+- WebSocket-driven Hot Module Reloading (instant per-file updates)
+- File watching with glob rules, ignore patterns, and cold reload support
+- Built-in dev server with HTTP proxy and static file handling
+- Instant updates without full page reload
+- Built on Bun’s native server APIs
+
+## 📊 WakaTime Activity
 
 <!--START_SECTION:waka-->
 
@@ -51,39 +53,6 @@ Oblxvion               39 hrs 4 mins         ▒░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-# AniList Activity
-
-<!-- ANILIST_ACTIVITY:start -->
-
--   📺 Watched episode 7 of [Witch Hat Atelier](https://anilist.co/anime/147105) (19:05 12 May 2026)
--   📺 Watched episode 6 of [Witch Hat Atelier](https://anilist.co/anime/147105) (19:26 04 May 2026)
--   📺 Watched episode 2 of [Daemons of the Shadow Realm](https://anilist.co/anime/195600) (14:24 02 May 2026)
--   📺 Watched episode 1 of [Daemons of the Shadow Realm](https://anilist.co/anime/195600) (19:25 30 April 2026)
--   📺 Watched episode 5 of [Witch Hat Atelier](https://anilist.co/anime/147105) (16:45 27 April 2026)
--   📺 Watched episode 3 - 4 of [Witch Hat Atelier](https://anilist.co/anime/147105) (16:35 26 April 2026)
--   📺 Watched episode 1 - 2 of [Witch Hat Atelier](https://anilist.co/anime/147105) (21:13 21 April 2026)
--   📺 Watched episode 1 of [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (20:06 18 April 2026)
--   📺 Completed [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (03:09 02 April 2026)
--   📺 Watched episode 11 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (20:31 20 March 2026)
-
-<!-- ANILIST_ACTIVITY:end -->
-
-# GitHub Activity
-
-<!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#190](https://github.com/MichaelXF/js-confuser/issues/190#issuecomment-4062124295) in [MichaelXF/js-confuser](https://github.com/MichaelXF/js-confuser)
-2. 💪 Opened PR [#4](https://github.com/Dalrae1/Powerline.io/pull/4) in [Dalrae1/Powerline.io](https://github.com/Dalrae1/Powerline.io)
-3. ℹ️ Labeled issue [#25673](https://github.com/oven-sh/bun/issues/25673) in [oven-sh/bun](https://github.com/oven-sh/bun)
-4. ℹ️ Labeled issue [#25673](https://github.com/oven-sh/bun/issues/25673) in [oven-sh/bun](https://github.com/oven-sh/bun)
-5. ❗ Opened issue [#25673](https://github.com/oven-sh/bun/issues/25673) in [oven-sh/bun](https://github.com/oven-sh/bun)
-6. 🔒 Closed issue [#8](https://github.com/GuilleDiazFentanes/AutoClaim-AutoRoll-AutoReact-MudaeBot-2025/issues/8) in [GuilleDiazFentanes/AutoClaim-AutoRoll-AutoReact-MudaeBot-2025](https://github.com/GuilleDiazFentanes/AutoClaim-AutoRoll-AutoReact-MudaeBot-2025)
-7. 🗣 Commented on [#457](https://github.com/rebelonion/Dantotsu/issues/457#issuecomment-2256121324) in [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu)
-8. 🗣 Commented on [#457](https://github.com/rebelonion/Dantotsu/issues/457#issuecomment-2256120426) in [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu)
-9. 🗣 Commented on [#457](https://github.com/rebelonion/Dantotsu/issues/457#issuecomment-2256119951) in [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu)
-10. 🗣 Commented on [#457](https://github.com/rebelonion/Dantotsu/issues/457#issuecomment-2256116300) in [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu)
-<!--END_SECTION:activity-->
-
 <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=sneazy-ibo&color=ff6e00&label=Counter&abbreviated=true" alt="GitHub Profile Views Counter">
+    <img src="https://komarev.com/ghpvc/?username=sneazy-ibo&color=ff6e00&label=View%20Counter" alt="GitHub Profile Views Counter">
 </div>
