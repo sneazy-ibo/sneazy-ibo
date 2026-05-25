@@ -35,20 +35,20 @@ A lightweight development toolchain for fast iteration in browser-based projects
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 23 May 2026
+From: 06 February 2024 - To: 24 May 2026
 
-Total Time: 2,128 hrs 48 mins
+Total Time: 2,129 hrs 45 mins
 
-JavaScript             1,295 hrs 4 mins      ███████████████▒░░░░░░░░░   60.84 %
+JavaScript             1,296 hrs 1 min       ███████████████▒░░░░░░░░░   60.85 %
 Kotlin                 139 hrs 43 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
 Other                  100 hrs 41 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
 HTML                   85 hrs 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Svelte                 78 hrs 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Svelte                 78 hrs 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 XML                    68 hrs 50 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 Java                   60 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-CSS                    48 hrs 1 min          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+CSS                    48 hrs 1 min          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 Markdown               40 hrs 40 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Oblxvion               39 hrs 4 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Oblxvion               39 hrs 4 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
