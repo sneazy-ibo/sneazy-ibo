@@ -21,8 +21,8 @@ Production-scale rewrite of a multiplayer browser game client with real-time bac
 
 > V2 has been in progress for 6 months and is close to release
 
-### ⚙️ Cindel - Dev Tooling & HMR System
-A lightweight development toolchain for fast iteration in browser-based projects.
+### ⚙️ Cindel - Live Development Runtime
+A lightweight development server for fast iteration in browser-based projects.
 
 - Instant updates without full page reload
 - WebSocket-driven Hot Module Reloading
