@@ -24,10 +24,10 @@ Production-scale rewrite of a multiplayer browser game client with real-time bac
 ### ⚙️ Cindel - Dev Tooling & HMR System
 A lightweight development toolchain for fast iteration in browser-based projects.
 
-- WebSocket-driven Hot Module Reloading (instant per-file updates)
+- Instant updates without full page reload
+- WebSocket-driven Hot Module Reloading
 - File watching with glob rules, ignore patterns and cold reload support
 - Dev server with built-in proxying and static file handling
-- Instant updates without full page reload
 - Built on Bun’s native server APIs
 
 ## 📊 WakaTime Activity
