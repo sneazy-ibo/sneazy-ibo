@@ -35,7 +35,7 @@ A lightweight development server for fast iteration in browser-based projects.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 05 June 2026
+From: 06 February 2024 - To: 06 June 2026
 
 Total Time: 2,156 hrs 44 mins
 
