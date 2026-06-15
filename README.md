@@ -35,17 +35,17 @@ A lightweight development server for fast iteration in browser-based projects.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 13 June 2026
+From: 06 February 2024 - To: 14 June 2026
 
-Total Time: 2,184 hrs 54 mins
+Total Time: 2,187 hrs 54 mins
 
-JavaScript             1,326 hrs 14 mins     ███████████████▒░░░░░░░░░   60.70 %
+JavaScript             1,328 hrs 40 mins     ███████████████▒░░░░░░░░░   60.73 %
 Kotlin                 139 hrs 43 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Other                  100 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Svelte                 89 hrs 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-HTML                   86 hrs 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Other                  100 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Svelte                 89 hrs 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+HTML                   86 hrs 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 XML                    68 hrs 50 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Java                   60 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Java                   60 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 CSS                    50 hrs 43 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 Markdown               41 hrs 43 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 Oblxvion               39 hrs 4 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
