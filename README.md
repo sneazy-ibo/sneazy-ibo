@@ -37,11 +37,11 @@ A lightweight development server for fast iteration in browser-based projects.
 ```txt
 From: 06 February 2024 - To: 22 July 2026
 
-Total Time: 2,293 hrs 19 mins
+Total Time: 2,293 hrs 28 mins
 
-JavaScript             1,370 hrs 35 mins     ███████████████░░░░░░░░░░   59.76 %
+JavaScript             1,370 hrs 36 mins     ███████████████░░░░░░░░░░   59.76 %
 Kotlin                 139 hrs 43 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Svelte                 100 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Svelte                 100 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 Other                  100 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 HTML                   89 hrs 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 XML                    68 hrs 50 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
